@@ -6,7 +6,31 @@ I prepared this document specifically for two students who are interested in bui
 
 For what it's worth, here are some photos from two recent builds. The first is Ambrosia maple and purpleheart and the second is cherry and ipe.
 
+<div class="row">
+    <div class="col-md-4">
+        <image src="images/cherry_body.jpg" class="img-responsive" alt="Cherry body">
+    </div>
+    <div class="col-md-4">
+        <image src="images/cherry_front.jpg" class="img-responsive" alt="Cherry front">
+    </div>
+    <div class="col-md-4">
+        <image src="images/cherry_neck_back.jpg" class="img-responsive" alt="Cherry neck">
+    </div>
+</div>
 
+<p></p>
+
+<div class="row">
+    <div class="col-md-4">
+        <image src="images/purpleheart_body.jpg" class="img-responsive" alt="Maple and purpleheart body">
+    </div>
+    <div class="col-md-4">
+        <image src="images/purpleheart_head.jpg" class="img-responsive" alt="Maple and purpleheart peghead">
+    </div>
+    <div class="col-md-4">
+        <image src="images/purpleheart_neck.jpg" class="img-responsive" alt="Maple and purpleheart neck">
+    </div>
+</div>
 
 ## <a name='tools'></a>Tools and Materials
 
