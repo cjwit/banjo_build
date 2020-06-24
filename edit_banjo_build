@@ -1,0 +1,8 @@
+osascript -e 'tell app "Terminal"
+    do script "cd /Users/cwituls/Documents/banjo_build"
+end tell'
+osascript -e 'tell app "Terminal"
+    do script "cd /Users/cwituls/Documents/banjo_build && python -m SimpleHTTPServer 4000"
+end tell'
+/usr/bin/open -a "/Applications/Firefox.app/Contents/MacOS/firefox" 'http://localhost:4000/'
+code /Users/cwituls/Documents/banjo_build
