@@ -53,6 +53,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Coping saw:** this will help in cutting the peghead and (hopefully) taking the waste out of the inside of the rim rings. I've used a spindle sander for this in the past, but those are not as easy to come by.
 * **Power sander:** I rigged up an old belt sander to work as a bench sander. This made a huge difference. An oscilating sander can help, too, but not until pretty far in.
 * **Files and rasps:** these make a difference with shaping.
+* **Chisel**: at least one that is wide-ish. A half inch or so would probably be most useful. My 3/4 has come in handy, but now I have a 1/4 inch one that I thing will also be super useful on future builds, too.
 * **Drill:** for starting your peg holes
 * **Peg reamer:** for tapering the holes so that the pegs fit
 * **Hand saw or small files:** to cut string slots in the bridge and nut
