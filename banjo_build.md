@@ -4,7 +4,7 @@
 
 I prepared this document specifically for two students who are interested in building banjos. If you found your way here, feel free to reach out at [chris.witulski@gmail.com](mailto:chris.witulski@gmail.com) or [my homepage](https://cjwit.github.io) with any questions, comments, or (more likely) suggestions. I've built a handful of these and I'm happy with how they came out. I hope that this can be helpful!
 
-For what it's worth, here are some photos from two recent builds. The first is Ambrosia maple and purpleheart and the second is cherry and ipe.
+For what it's worth, here are some photos from two recent builds. The first is cherry and ipe and the second is Ambrosia maple and purpleheart.
 
 <div class="row">
     <div class="col-md-4">
@@ -57,8 +57,9 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Drill:** for starting your peg holes
 * **Peg reamer:** for tapering the holes so that the pegs fit
 * **Hand saw or small files:** to cut string slots in the bridge and nut
+* **Sharpening stone:** you can probably get through a job without this, but it's how you sharpen a chisel and hand plane in the future. There are lots of kinds. They all work. Eventually, if you continue with hand tools, you would want a fine and course grit stone (you can get one with two sides), a leather "strop," and some polishing compound. 
 
-**Joe and Zachary**: I'll be able to lend you a belt sander, files, rasps, coping saw, and peg reamer. You can use my radial arm saw for the block rim segments and a hand saw for the string slots. This means that you'll need clamps and a drill.
+**Joe and Zachary:** I'll be able to lend you a belt sander, files, rasps, coping saw, peg reamer, and sharpening stone. You can use my radial arm saw for the block rim segments and a hand saw for the string slots. This means that you'll need clamps and a drill.
 
 ### Not sure if these are tools or materials...
 
@@ -70,7 +71,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Tack cloth:** this is to apply finish, but you can also use an old t-shirt. Just cut it up into squares.
 * **Steel wool:** 0000, which is very fine, will help with the final few bouts of sanding and finishing.
 
-**Joe and Zachary**: I can give you some wax and steel wool. You'll go through enough of the other things that you'll want your own. I also don't have much finish left, otherwise I'd let you borrow it.
+**Joe and Zachary:** I can give you some wax and steel wool. You'll go through enough of the other things that you'll want your own. I also don't have much finish left, otherwise I'd let you borrow it.
 
 ### Materials
 
@@ -78,7 +79,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Skin for the head:** [Elderly Instruments](https://www.elderly.com) sells calf and goat skin heads. Get one that's a good deal bigger than your planned hoop so that you have something to grab on to when glung and tacking. The thin goat skin has worked well for me. [Jeff Menzies](https://www.facebook.com/jeff.menzies.39) prepares and sells his own down in Jamaica. They're more (usually $50 or so), but they look great. I've heard that they work beautifully, too, but I haven't tried them (yet).
 * **Tacks:** Apolstry tacks work well. They should be pretty heavy duty, have broad heads, and look good. Brass looks nice on wood, but that's a taste thing.
 * **Pegs:** Violin pegs work well. I've just ordered cheap sets from Amazon. Be sure that they are tapered and not "blanks," though. And remember that you need five, so two sets.
-* *Strings:* [Aquila Nylgut nylon strings](https://aquilacorde.com/en/shop/modern-instrument-string-sets/timeless-banjo-minstrel-banjo-en/nylgut-banjo-and-minstrel-banjo/) work well for this kind of instrument. I've used the red series, the regular nylon, and the minstrel set. The reds have a texture to them that feels really nice, but it's preference. Using the minstrel set will put your banjo about a fourth below standard tuning.
+**Strings:** [Aquila Nylgut nylon strings](https://aquilacorde.com/en/shop/modern-instrument-string-sets/timeless-banjo-minstrel-banjo-en/nylgut-banjo-and-minstrel-banjo/) work well for this kind of instrument. I've used the red series, the regular nylon, and the minstrel set. The reds have a texture to them that feels really nice, but it's preference. Using the minstrel set will put your banjo about a fourth below standard tuning.
 * **Scrap wood:** for the bridge (pine works, or something left over)
 
 Some other touches that make a difference:
