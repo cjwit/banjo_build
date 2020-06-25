@@ -63,7 +63,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Band saw, circular saw, or panel saw:** You need something to make the big cuts. Access to a band saw is best.
 * **Drill:** for starting your peg holes
 * **Router:** This can be useful for a fretboard scoop, but there are other ways to do that, too. I did the scoop on the cherry banjo above with a router (it's flat) and cut out the deep scoop on the other one by hand.
-* **Power sander:** I rigged up an old belt sander to work as a bench sander. This made a huge difference. An oscilating sander can help, too, but not until pretty far into the project.
+* **Power sander:** I rigged up an old belt sander to work as a bench sander. It made a huge difference and was pretty easy to do. You just need to attach some scrap pieces to a larger board so you can clamp it down. Then I shoved a wedge-shaped piece of scrap into the handle to hold in on. In the future, I'll get a foot pedal. An oscilating sander can help, too, but not until pretty far into the project.
 
 <a href="images/belt_sander.jpg">
     <img src="images/belt_sander_sm.jpg" class="img-responsive" alt="A rigged up belt sander">
@@ -204,7 +204,11 @@ A block rim is basically a stacked set of "laminations." Each of these is an oct
 
 ### Cutting blocks
 
-Splitting a circle into segments involves some math for angles. Look back at that layout example above, that's where these numbers below come from. You're dividiing 180° by the number of segments.
+Splitting a circle into segments involves some math for angles. Look back at that layout example above, that's where these numbers below come from. You're dividing 180° by the number of segments. I found it useful to draw up a plan: this is for a 16-segment rim that I hope to do sometime soon. There's a smaller one in there for a banjo ukelele that I want to make for my kiddos. It's hard to read, since I drew this out on brown paper, but it might be worth the time to sketch out what you're looking for, especially if you are not doing an 11- or 12-inch rim. The measurements for those are below.
+
+<a href="images/rim_plan.jpg">
+    <img src="images/rim_plan_sm.jpg" class="img-responsive" alt="Rim plan drawing">
+</a>
 
 Segments | Angles | Long side (11") | Long side (12")
 --- | --- | --- | ---
@@ -226,6 +230,10 @@ From here, you just flip the stock (the long wood you are cutting) to align with
 
 When you get half of your segments for one of the laminations, lay them out on the floor. They should make a half circle. You can check by lining up a straight edge (a ruler or the long piece of wood that you're cutting). If it's way off, you'll want to adjust the angles and redo them. You can cut these a bit shorter (shave off the angle) and make a smaller rim if necessary. Since you're hopefully working with scrap, that's not a problem. A small half circle will give you the same angles as a large one.
 
-Once you're set, get your regular stock (or put it back on) and keep cutting. If you are doing 3 laminations of 8 segments, you'll need 24 of these segments. Lay out and check your octogons as you go.
+Once you're set, get your regular stock (or put it back on) and keep cutting. If you are doing 3 laminations of 8 segments, you'll need 24 of these segments. Lay out and check your octogons as you go. (This photo shows them glued and taped, which comes next, but you get the idea.)
+
+<a href="images/layout_segments.jpg">
+    <img src="images/layout_segments_sm.jpg" class="img-responsive" alt="Laying out rim segments">
+</a>
 
 If they are off by a little, you can shave off the difference in a few ways. One that I remember from the many YouTube videos I watched involved a table saw, where you basically lay out the two half circles and cut their ends flat so that they mate well. Drawing a line with a straight edge and cutting with a hand saw should work, too. Be careful of sanding since you can end up with rounded edges. This would mess with your gluing surface.
