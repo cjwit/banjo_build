@@ -4,31 +4,46 @@
 
 I prepared this document specifically for two students who are interested in building banjos. If you found your way here, feel free to reach out at [chris.witulski@gmail.com](mailto:chris.witulski@gmail.com) or [my homepage](https://cjwit.github.io) with any questions, comments, or (more likely) suggestions. I've built a handful of these and I'm happy with how they came out. I hope that this can be helpful!
 
-For what it's worth, here are some photos from two recent builds. The first is cherry and ipe and the second is Ambrosia maple and purpleheart.
+For what it's worth, here are some photos from two recent builds. The first is cherry and ipe and the second is Ambrosia maple and purpleheart. Click for larger images.
 
 <div class="row">
-    <div class="col-md-4">
-        <image src="images/cherry_body.jpg" class="img-responsive" alt="Cherry body">
+    <div class="col-md-3">
+        <a href="images/cherry_front.jpg">
+            <img src="images/cherry_front.jpg" class="img-responsive" alt="Cherry front">
+        </a>
     </div>
-    <div class="col-md-4">
-        <image src="images/cherry_front.jpg" class="img-responsive" alt="Cherry front">
+    <div class="col-md-3">
+        <a href="images/cherry_body.jpg">
+            <img src="images/cherry_body.jpg" class="img-responsive" alt="Cherry body">
+        </a>
     </div>
-    <div class="col-md-4">
-        <image src="images/cherry_neck_back.jpg" class="img-responsive" alt="Cherry neck">
+    <div class="col-md-3">
+        <a href="images/cherry_back.jpg">
+            <img src="images/cherry_back.jpg" class="img-responsive" alt="Cherry back">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="images/cherry_neck_back.jpg">
+            <img src="images/cherry_neck_back.jpg" class="img-responsive" alt="Cherry neck">
+        </a>
     </div>
 </div>
 
-<p></p>
-
 <div class="row">
     <div class="col-md-4">
-        <image src="images/purpleheart_body.jpg" class="img-responsive" alt="Maple and purpleheart body">
+        <a href="images/purpleheart_body.jpg">
+            <img src="images/purpleheart_body.jpg" class="img-responsive" alt="Maple and purpleheart body">
+        </a>
     </div>
     <div class="col-md-4">
-        <image src="images/purpleheart_head.jpg" class="img-responsive" alt="Maple and purpleheart peghead">
+        <a href="images/purpleheart_head.jpg">
+            <img src="images/purpleheart_head.jpg" class="img-responsive" alt="Maple and purpleheart peghead">
+        </a>
     </div>
     <div class="col-md-4">
-        <image src="images/purpleheart_neck.jpg" class="img-responsive" alt="Maple and purpleheart neck">
+        <a href="images/purpleheart_neck.jpg">
+            <img src="images/purpleheart_neck.jpg" class="img-responsive" alt="Maple and purpleheart neck">
+        </a>
     </div>
 </div>
 
@@ -143,7 +158,7 @@ For the block rim, you get long pieces of wood, cut trapazoids, and assemble an 
 
 To get the size, you need to draw out a circle and work out the geometry. I found a thumbnail image once a while back that gives an idea, though. It's hard to read and the main site isn't there anymore. (If anyone in the internet has info, I'd love to link directly to the creator!)
 
-<image src="images/block-rim-pattern.jpg" class="img-responsive" alt="Patterns for block rim shapes">
+<img src="images/block-rim-pattern.jpg" class="img-responsive" alt="Patterns for block rim shapes">
 
 Taking the larger size rim for the sake of overestimating the amount of wood, you need 8 segments that are each 5 3/16 inches on the outside. Since you flip the wood, it's really 4 times (5 3/16" + *math and stuff*). I'd guess high and call it 5 1/4" times 8 segments for 42" per lamination (per hoop that you'll glue together). If your wood is 1" thick and you want a 3" deep rim, you need three laminations. By the time you cut and sand, it might be short, so guess high. That's four laminations for 168" or 14 feet. The pattern gives a width of 1 11/16". A 2x4 prepped is usually 1 3/4" thick, not 2". So take the 1 11/16" and call it 2".
 
