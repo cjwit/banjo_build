@@ -7,24 +7,19 @@ I prepared this document specifically for two students who are interested in bui
 For what it's worth, here are some photos from two recent builds. The first is cherry and ipe and the second is Ambrosia maple and purpleheart. Click for larger images.
 
 <div class="row">
-    <div class="col-md-3">
-        <a href="images/cherry_front.jpg">
-            <img src="images/cherry_front.jpg" class="img-responsive" alt="Cherry front">
-        </a>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="images/cherry_body.jpg">
-            <img src="images/cherry_body.jpg" class="img-responsive" alt="Cherry body">
+            <img src="images/cherry_body_sm.jpg" class="img-responsive" alt="Cherry body">
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="images/cherry_back.jpg">
-            <img src="images/cherry_back.jpg" class="img-responsive" alt="Cherry back">
+            <img src="images/cherry_back_sm.jpg" class="img-responsive" alt="Cherry back">
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="images/cherry_neck_back.jpg">
-            <img src="images/cherry_neck_back.jpg" class="img-responsive" alt="Cherry neck">
+            <img src="images/cherry_neck_back_sm.jpg" class="img-responsive" alt="Cherry neck">
         </a>
     </div>
 </div>
@@ -32,17 +27,17 @@ For what it's worth, here are some photos from two recent builds. The first is c
 <div class="row">
     <div class="col-md-4">
         <a href="images/purpleheart_body.jpg">
-            <img src="images/purpleheart_body.jpg" class="img-responsive" alt="Maple and purpleheart body">
+            <img src="images/purpleheart_body_sm.jpg" class="img-responsive" alt="Maple and purpleheart body">
         </a>
     </div>
     <div class="col-md-4">
         <a href="images/purpleheart_head.jpg">
-            <img src="images/purpleheart_head.jpg" class="img-responsive" alt="Maple and purpleheart peghead">
+            <img src="images/purpleheart_head_sm.jpg" class="img-responsive" alt="Maple and purpleheart peghead">
         </a>
     </div>
     <div class="col-md-4">
         <a href="images/purpleheart_neck.jpg">
-            <img src="images/purpleheart_neck.jpg" class="img-responsive" alt="Maple and purpleheart neck">
+            <img src="images/purpleheart_neck_sm.jpg" class="img-responsive" alt="Maple and purpleheart neck">
         </a>
     </div>
 </div>
