@@ -62,8 +62,12 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Mitre saw, chop saw, or radial arm saw:** This will help you when you're cutting blocks for the rim and for smaller tasks elsewhere.
 * **Band saw, circular saw, or panel saw:** You need something to make the big cuts. Access to a band saw is best.
 * **Drill:** for starting your peg holes
-* **Power sander:** I rigged up an old belt sander to work as a bench sander. This made a huge difference. An oscilating sander can help, too, but not until pretty far in.
 * **Router:** This can be useful for a fretboard scoop, but there are other ways to do that, too. I did the scoop on the cherry banjo above with a router (it's flat) and cut out the deep scoop on the other one by hand.
+* **Power sander:** I rigged up an old belt sander to work as a bench sander. This made a huge difference. An oscilating sander can help, too, but not until pretty far into the project.
+
+<a href="images/belt_sander.jpg">
+    <img src="images/belt_sander_sm.jpg" class="img-responsive" alt="A rigged up belt sander">
+</a>
 
 ### Hand tools
 
