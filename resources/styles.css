@@ -14,12 +14,24 @@ h1, h2, h3, h4, h5, h6 {
         position: fixed;
         margin-top: 40px;
     }
+
+    #sidebar-container .nav ul.nav {
+        display: none;
+    }
+    
+    #sidebar-container .nav>.active>ul.nav {
+        display: block;
+    }    
 }
 
 @media screen and (max-width: 768px) {
     .fixed {
         margin-top: 0px;
     }
+
+    #sidebar-container .nav ul.nav {
+        display: block;
+    }    
 }
 
 #sidebar li>a {
@@ -50,14 +62,6 @@ h1, h2, h3, h4, h5, h6 {
 #sidebar-container .nav .nav>active:hover,
 #sidebar-container .nav .nav>active:focus {
     font-weight: 500;
-}
-
-#sidebar-container .nav ul.nav {
-    display: none;
-}
-
-#sidebar-container .nav>.active>ul.nav {
-    display: block;
 }
 
 .img-responsive {
