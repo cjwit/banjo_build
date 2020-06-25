@@ -100,7 +100,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 
 * **Wood or synthetic veneers:** These give that pinstripe look between different types of wood. [LMII sells them.](https://www.lmii.com/148-veneers) Putting them around a "stripe" of the wood you use for a fretboard gives strength and some good detail. You can see it in the photo below.
 * **Stain:** Some people like the look of a stained head. Check out [Romero Banjos](http://www.romerobanjos.com) for some beautiful examples. I used a gel stain from General Finishes when doing this. You can also stain the wood, but that's less common.
-* **Brass position markers:** You can see these in the photo of the back of the neck on the cherry banjo here. They are just holes drilled into the neck at various fret locations and filled with small pieces of a brass rod.
+* **Brass position markers:** You can see these in the photo of the back of the neck on the cherry banjo here. They are just holes drilled into the neck at various fret locations and filled with small pieces of a brass rod. [OnlineMetals.com](https://www.onlinemetals.com/) sells, well, metals online. They have a warehouse in nearby Toledo (among others) where you can pick up an order. They also ship.
 * **Flush frets and frets:** Installing frets involves some extra steps and tools. There are plenty of videos on how to do it, but the main thing is that you need to keep an eye on when you complete each step so that you can ensure paraellel lines and even frets. This build is fretless.
 
 <a href="images/cherry_neck_back.jpg">
