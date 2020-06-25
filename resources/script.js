@@ -21,6 +21,8 @@ var createMenu = function() {
         }
     });
 
+    $('table').addClass('table');
+
     $('body').scrollspy({
         target: '#sidebar-container',
         offset: 80
