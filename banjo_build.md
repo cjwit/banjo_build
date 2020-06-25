@@ -193,3 +193,35 @@ Part | Long | Wide | Thick | BF
 Rim | 14' | 2" | 1" | 28
 Neck | 7' | 4" | 1" | 28
 Fingerboard | 2-3' | 4" | 1" | 8-12
+
+## Building the rim
+
+A block rim is basically a stacked set of "laminations." Each of these is an octagon (though you also see 12 or 16 segments). You can mismatch pieces to get a checkerboard pattern or use different woods for different laminations for stripes, rim caps, wooden tone rings, etc. There are a bunch of videos and examples around the internet, this is a distillation that I've used.
+
+### Cutting blocks
+
+Splitting a circle into segments involves some math for angles. Look back at that layout example above, that's where these numbers below come from. You're dividiing 180° by the number of segments.
+
+Segments | Angles | Long side (11") | Long side (12")
+--- | --- | --- | ---
+8 | 22.5° | 4 3/4" | 5 3/16"
+12 | 15° | 3 1/16" | 3 3/8"
+16 | 11.25° | 2 9/32" | 2 1/2"
+
+These are the angles for your trapezoids. The lengths are really specific. When all is said and done, it's most important that **the angles are right** and that **the segments are all the same size**. If they are a little bigger or smaller, it just means that your hoop will be a little bigger or smaller. That doesn't matter at all.
+
+The easiest way to cut them is using a chop saw, mitre saw, or radial arm saw. Basically, a tool that makes repeated identical cuts easy. Do this once with a test piece of long scrap, if you have it.
+
+First, set the angle and make one cut to get the end off. Then, you can use the angled side of that end piece as a block so that each other piece is identical in length. Do this by flipping it and clamping it to the saw itself. The piece I cut for this photo was a little short, so I clamped another scrap as a stopper.
+
+<a href="images/sawing_rim_segments.jpg">
+    <img src="images/sawing_rim_segments_sm.jpg" class="img-responsive" alt="Sawing rim segments">
+</a>
+
+From here, you just flip the stock (the long wood you are cutting) to align with your block, slide it down, and make the next cut. Take it off, flip the stock, slide it down, cut. 
+
+When you get half of your segments for one of the laminations, lay them out on the floor. They should make a half circle. You can check by lining up a straight edge (a ruler or the long piece of wood that you're cutting). If it's way off, you'll want to adjust the angles and redo them. You can cut these a bit shorter (shave off the angle) and make a smaller rim if necessary. Since you're hopefully working with scrap, that's not a problem. A small half circle will give you the same angles as a large one.
+
+Once you're set, get your regular stock (or put it back on) and keep cutting. If you are doing 3 laminations of 8 segments, you'll need 24 of these segments. Lay out and check your octogons as you go.
+
+If they are off by a little, you can shave off the difference in a few ways. One that I remember from the many YouTube videos I watched involved a table saw, where you basically lay out the two half circles and cut their ends flat so that they mate well. Drawing a line with a straight edge and cutting with a hand saw should work, too. Be careful of sanding since you can end up with rounded edges. This would mess with your gluing surface.
