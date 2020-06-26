@@ -263,3 +263,6 @@ Then, roll it up, use the end of the tape to hold it nice and tight, wipe off an
     </div>
 </div>
 
+### Trimming the laminations
+
+Up next...
