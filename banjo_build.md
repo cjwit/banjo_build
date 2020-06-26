@@ -237,3 +237,29 @@ Once you're set, get your regular stock (or put it back on) and keep cutting. If
 </a>
 
 If they are off by a little, you can shave off the difference in a few ways. One that I remember from the many YouTube videos I watched involved a table saw, where you basically lay out the two half circles and cut their ends flat so that they mate well. Drawing a line with a straight edge and cutting with a hand saw should work, too. Be careful of sanding since you can end up with rounded edges. This would mess with your gluing surface.
+
+### Gluing the laminations
+
+Once the blocks are cut and you know that they fit together well, you can glue them together. One easy way to do this is with blue painters tape.
+
+Lay the blocks for one lamination (one layer) out on a table on their long edge, end to end. This gives you a chance to practice lining them up as closely as possible. Rip off a piece of painters tape that is a few inches longer than the line of blocks. Starting at one edge of the tape, stick the blocks end to end as close as possible. You'll use the few inches of tape to hold the octagon (or whatever) together after gluing.
+
+Practice rolling it up and taping it shut. The blocks should line up *perfectly*. If they are jagged at all, fix it. You can use one edge of the tape as a guide. If any are out of "true" or straight, you'll have to sand the entire layer of rim down to accomodate the gap. It's an easy thing to get just right and it's worth the time.
+
+Once you get them exactly right, you add glue into both sides of each glue surface (where adjecent blocks will touch). Use your finger to spread the glue across the end grain of the wood so that it completely covers both sides of the gap. This may mean you have to lift the blocks a bit by grabbing the tape so that you can get right into the edge of the corner between the trapezoids.
+
+Then, roll it up, use the end of the tape to hold it nice and tight, wipe off any excess glue, and leave it to dry overnight. Do it all again for each layer. If you are going to do a cap on the rim (a layer that's a different material), this is the time to do it. The second picture below is from a time when I wanted to add a layer later on. It turned out to be a tone of awkward extra work.
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="images/rolled_rims.jpg">
+            <img src="images/rolled_rims_sm.jpg" class="img-responsive" alt="Rolled up rim laminations">
+</a>
+    </div>
+    <div class="col-md-6">
+        <a href="images/adding_rim_cap.jpg">
+            <img src="images/adding_rim_cap_sm.jpg" class="img-responsive" alt="Adding a rim cap after the fact">
+        </a>
+    </div>
+</div>
+
