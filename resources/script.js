@@ -22,7 +22,7 @@ var createMenu = function() {
     });
 
     // homepage link
-    $('#sidebar').append('<li><a href="https://cjwit.github.io" id="homepage">By Christopher Witulski</a></li>');
+    $('#sidebar').append('<li><a href="https://cwitulski.com" id="homepage">By Christopher Witulski</a></li>');
 
     // for boostrap tables
     $('table').addClass('table');
