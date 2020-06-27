@@ -79,9 +79,9 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Peg reamer:** This is for tapering the holes so that the pegs fit. It's the only banjo-specific tool here and, I can say from experience, that [the one from Stew-Mac](https://www.stewmac.com/luthier-tools-and-supplies/types-of-tools/reamers/peghole-reamers.html) is worth the money when compared to cheap ones on Amazon.
 * **Sharpening stone:** You can probably get through a job without this, but it's how you sharpen a chisel and hand plane in the future. There are lots of kinds. They all work. Eventually, if you continue with hand tools, you would want a fine and course grit stone (you can get one with two sides), a leather "strop," and some polishing compound.
 
-### Tools or materials?
+### Tools or materials, not sure
 
-* **Eye, ear, and respoatory protection:** Goggles and ear plugs (for power tools) are a must. So are dust masks (like N95s), especially with certain types of woods that can mess with your lungs.
+* **Eye, ear, and respiratory protection:** Goggles and ear plugs (for power tools) are a must. So are dust masks (like N95s), especially with certain types of woods that can mess with your lungs.
 * **Sandpaper:** You'll be sanding forever. Get a box of quality paper in a range of grits up to 400 or so. I've bought the cheap stuff. It doesn't work well.
 * **Painter's tape:** This is the blue stuff. You'll be using it to glue up the block rim. The 1 inch thick version is fine.
 * **Wood glue:** Titebond is the standard. You'll probably want more than the small bottle. The one that looks like a restaurant ketchup bottle is enough.
@@ -94,11 +94,11 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 
 * **Wood:** Using two different kinds works well: one for the instrument itself and a second (very hard) wood for things like the fingerboard, peghead, tailpiece, and any contrasting decorations. I'll come back to this below.
 * **Skin for the head:** [Elderly Instruments](https://www.elderly.com) sells calf and goat skin heads. Get one that's a good deal bigger than your planned hoop so that you have something to grab on to when gluing and tacking. The thin goat skin has worked well for me. [Jeff Menzies](https://www.facebook.com/jeff.menzies.39) prepares and sells his own down in Jamaica. They're more (usually $50 or so), but they look great. I've heard that they work beautifully, too, but I haven't tried them (yet).
-* **Tacks:** Apolstry tacks work well. They should be pretty heavy duty, have broad heads, and look good. Brass looks nice on wood, but that's a taste thing.
+* **Tacks:** Upholstery tacks work well. They should be pretty heavy duty, have broad heads, and look good. Brass looks nice on wood, but that's a taste thing.
 * **Pegs:** Violin pegs work well. I've just ordered cheap sets from Amazon. Be sure that they are tapered and not "blanks," though. And remember that you need five, so two sets.
 **Strings:** [Aquila Nylgut nylon strings](https://aquilacorde.com/en/shop/modern-instrument-string-sets/timeless-banjo-minstrel-banjo-en/nylgut-banjo-and-minstrel-banjo/) work well for this kind of instrument. I've used the red series, the regular nylon, and the minstrel set. The reds have a texture to them that feels really nice, but it's preference. Using the minstrel set will put your banjo about a fourth below standard tuning.
 * **Scrap wood:** You'll need some for the nut (hard maple works well, or you could use scrap from the fingerboard), bridge, tailpiece, and heel cap (if you want one). Fingerboard scraps look good for the tailpiece and heel cap. You could also use them for the nut, if they're good and hard. 1/4" thick would do well. For the bridge, pine works for nylon strings, but maple is more common. It's also common to cap maple with something harder. (Maybe more fingerboard scrap?)
-* **Fishing line:** There are a few ways to connect a tail piece to the dowel. Thick (heavy guage) fishing line is one of them.
+* **Fishing line:** There are a few ways to connect a tail piece to the dowel. Thick (heavy gauge) fishing line is one of them.
 
 ### Some optional details
 
@@ -118,10 +118,9 @@ When I was starting with my first build, choosing wood was one of the most myste
 1. What kind of wood do I choose?
 2. How much do I need?
 3. Where do I get it?
+4. How do I cut this wood?
 
 A third one is relevant if you don't have a table saw or band saw in your garage, like me:
-
-4. How do I cut this wood?
 
 Northwest Ohio has a great local place called Laborie Farms in Portage, just outside of Bowling Green. That's the place to go. They also cut wood to size, though it can take a while if they're working with someone to design a kitchen instead of sell $100 worth of scrap for a banjo. So, that's easy. They have local types and a pile of "exotics" that can range from cheap to ridiculously expensive. It's fun to poke around. So that's questions 3 and 4.
 
@@ -131,7 +130,7 @@ Best advice here: look at photos from makers. Pick something that you think is a
 
 Fingerboards need to be hard and smooth. Some of the good choices here can be really expensive, but you're also not looking for much, so it might be worth it. Common ones are ebony (obviously, but not really available and problematic), pau ferro, cocobolo, and figured maple. Others are cheaper, like hard maple, ipe, and rosewood. I've used hard maple (which is boring), ipe (super dark), and purpleheart (which eventually turns dark brown).
 
-There are some cool native options, too. Persimmon and osange orange seem to be popping up more often, for example.
+There are some cool native options, too. Persimmon and osage orange seem to be popping up more often, for example.
 
 Since the main issue is hardness, it's good to reference a [Janka hardness chart](https://www.bellforestproducts.com/info/janka-hardness/). The higher the number, the harder the wood. It also gets more difficult to work with. You'll see the fingerboard woods in the 2500-3000 range, but hard maple (1450) works just fine for nylon strings, too.
 
@@ -174,7 +173,7 @@ That means: 14 feet of wood that's 2 inches wide and 1 inch thick. If you want a
 
 I've used two techniques for building a neck. You can see each in the photos at the top of the page. The purpleheart/maple banjo stacks pieces of wood horizontally together. For the cherry/ipe one, I cut a 4x4 in half, folded it on itself (vertically) and put a piece of ipe in between. This second approach gives extra strength because the two long pieces of cherry reinforce each other. Plus, the ipe serves as a super hard bracing (like a truss rod).
 
-I like the second way (the cherry/ipe one), but the first way is far easier. We'll start there. I got the idea from another website (among many) that outlines a banjo building process and also describes all sorts of good woodworking methods, not to mention how to get into and out of problems. [I recommend reading this completely!](https://www.thekimerers.net/brian/minstrel2/) 
+I like the second way (the cherry/ipe one), but the first way is far easier. We'll start there. I got the idea from another website (among many) that outlines a banjo building process and also describes all sorts of good woodworking methods, not to mention how to get into and out of problems. [I recommend reading this completely!](https://www.thekimerers.net/brian/minstrel2/)
 
 [This page in particular](https://www.thekimerers.net/brian/minstrel2/neckpieces.shtml) has the layout that we'll use. It comes out to 68" of 1" by 4". Let's call that 6 feet. 7 to be safe. The 4" might really be 3 1/2" after all is said and done.
 
@@ -193,7 +192,7 @@ So, the fingerboard material is 2 to 3 feet of 1/4" x 4". It's hard to get 1/4 i
 You buy wood in board feet (BF), which is calculated as one inch thick 12x12 pieces. You can look up estimates of prices online, but it varies. I'd check my math if I were you.
 
 Part | Long | Wide | Thick | BF
---- | --- | --- | --- | --- 
+--- | --- | --- | --- | ---
 Rim | 14' | 2" | 1" | 28
 Neck | 7' | 4" | 1" | 28
 Fingerboard | 2-3' | 4" | 1" | 8-12
@@ -267,7 +266,7 @@ Then, roll it up, use the end of the tape to hold it nice and tight, wipe off an
 
 Most rims are around a half inch thick and round, not octagons. It's time to get a rough cut of each lamination so that they are easier to glue together and sand evenly.
 
-Before you can cut, you have to mark. There are plenty of ways to do this, but I found it easiest to simply make a guide out of cardboard (Amazon boxes). Use a compass to cut a circle with your outer diameter and another with the inner diameter. Leave some give, so plan on a 3/4" rim for now. You'll slowly work it down to size after they're glued together. The last thing you want is a dip in one lamination. 
+Before you can cut, you have to mark. There are plenty of ways to do this, but I found it easiest to simply make a guide out of cardboard (Amazon boxes). Use a compass to cut a circle with your outer diameter and another with the inner diameter. Leave some give, so plan on a 3/4" rim for now. You'll slowly work it down to size after they're glued together. The last thing you want is a dip in one lamination.
 
 The two here are 10 1/2" and 8 3/4", leaving 1 3/4". Remember that this divides in half (there are two widths of rim within the diameter), so they make a 7/8" rim. It's pretty easy to get this down using power sanders, but not so much by hand, so you'll have to balance the reward of starting closer to the target thickness against the risk of ending up things not lining up quite right. Remember, too, that you'll be gluing a skin on, so it doesn't need to align with a standard size measurement.
 
@@ -283,7 +282,7 @@ I can think of a few ways to do it without those specific power tools. Sawing th
 
 ### Gluing up the rim
 
-Once you have the rough shapes cut, it's time to glue the laminations together. This is pretty straightforward. First, do lots and lots of sanding to make sure that the glue surfaces are clean and even. Then do more. And again. And some more. 
+Once you have the rough shapes cut, it's time to glue the laminations together. This is pretty straightforward. First, do lots and lots of sanding to make sure that the glue surfaces are clean and even. Then do more. And again. And some more.
 
 Stack the laminations up and think about how you want to align them. If you're doing a fancy checkerboard, this is the time to get it set. You want the segments to overlap in each layer so that they provide extra strength for each other. Go ahead and mark a few lines so that you know where the layers intersect once you put glue on.
 
@@ -297,7 +296,7 @@ Once the walls are even, smooth, and feel really nice, you can think about the t
 
 The top is different. You want a banjo rim to come in contact with the skin evenly and only in one spot. For this reason, you need to be absolutely sure that the top is flat. The easiest way to do this is to put it on a flat surface (a piece of glass is good, but a trustworthy table works, too). If it rocks, you need to sand off the high spots that make it rock.
 
-Then, you only want the rim to hold the skin at it's outermost part. Most banjos use tone rings to do this: a brass hoop or something similar that sits on the rim and holds the skin. We'll do a "wooden tone ring" by angling the top down as you move from the outer to the inner edge. 
+Then, you only want the rim to hold the skin at it's outermost part. Most banjos use tone rings to do this: a brass hoop or something similar that sits on the rim and holds the skin. We'll do a "wooden tone ring" by angling the top down as you move from the outer to the inner edge.
 
 I've found it to be pretty quick work on my mounted belt sander. You can hold the rim at an angle and just wind it through to "cut" (sand) the bevel. Hand sanding (by finger or with a block) would do the job too. The bevel doesn't matter so much; you're just trying to get the wood out of the way of the skin so that it can ring nicely. Once you're done, run the sand paper over the top a few more times to wear away any sharp points that could tear the skin and flip it upside down again to ensure that it's perfectly flat.
 
@@ -325,7 +324,7 @@ The main issue here is that two of the pieces are variable in length. The peghea
 
 The piece that connects the bottom of the heel to the dowel stick is easier to calculate than the neck. You need about 6" for the heel (much of this will get cut off) and enough for the dowel stick to go through the rim and come out the other side. You want a few inches on the other side, even after all is said and done. That's how the tail piece will attach to the body. In this drawing, I make this 6" plus 11" for the rim plus 3" to 7" excess. That comes out to 20" to 24".
 
-The neck piece itself involves some more math. The 3" by the head are part of the peghead. Thn you have about 1/4" for the nut. Then, to figure out what's left, you work backward from the scale length: the length of the strings from the nut to the bridge. 
+The neck piece itself involves some more math. The 3" by the head are part of the peghead. Thn you have about 1/4" for the nut. Then, to figure out what's left, you work backward from the scale length: the length of the strings from the nut to the bridge.
 
 As mentioned above, most banjos are 26" or 27" in scale and you want your bridge just past the halfway point of the skin. 55% makes a good guess. So if your rim is 11", just over 6" of your strings will be over the rim (11 x 0.55 = 6.05). That means that 20" of your strings will be over the neck.
 
@@ -379,7 +378,7 @@ Get the glue and clamps back out, line up the peghead face and glue. Then, use a
 
 With the neck on its side, you can draw the shape that you would like for the heel. The main two options are rounding it over or coming to a sharper point (like a boat). Do an image search online for custom banjos and you'll see a whole host of options. While you're there, take a look at peghead shapes. We'll come back to that. Do the same for the scoop.
 
-For all of these cuts, and many others as we get to the sides, there's a good hand tool technique that uses the kerf of the saw to make life easier. Basically, you cut a whole bunch of lines up to your actual cut line so that you can more easily cut or chisel out the waste. [The site I referenced above has a page with some great pictures of this.](https://www.thekimerers.net/brian/minstrel2/slope.shtml) It's far easier to see than explain. I like a shallower move down the neck with a steeper dip into the heel than in these photos, but I don't have any from this step. I'll have to take some next time. 
+For all of these cuts, and many others as we get to the sides, there's a good hand tool technique that uses the kerf of the saw to make life easier. Basically, you cut a whole bunch of lines up to your actual cut line so that you can more easily cut or chisel out the waste. [The site I referenced above has a page with some great pictures of this.](https://www.thekimerers.net/brian/minstrel2/slope.shtml) It's far easier to see than explain. I like a shallower move down the neck with a steeper dip into the heel than in these photos, but I don't have any from this step. I'll have to take some next time.
 
 Repeat this process to cut out the slope of the back of the neck and the scoop.
 
