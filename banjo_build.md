@@ -248,7 +248,7 @@ Practice rolling it up and taping it shut. The blocks should line up *perfectly*
 
 Once you get them exactly right, you add glue into both sides of each glue surface (where adjecent blocks will touch). Use your finger to spread the glue across the end grain of the wood so that it completely covers both sides of the gap. This may mean you have to lift the blocks a bit by grabbing the tape so that you can get right into the edge of the corner between the trapezoids.
 
-Then, roll it up, use the end of the tape to hold it nice and tight, wipe off any excess glue, and leave it to dry overnight. Do it all again for each layer. If you are going to do a cap on the rim (a layer that's a different material), this is the time to do it. The second picture below is from a time when I wanted to add a layer later on. It turned out to be a tone of awkward extra work.
+Then, roll it up, use the end of the tape to hold it nice and tight, wipe off any excess glue, and leave it to dry overnight. Do it all again for each layer. If you are going to do a cap on the rim (a layer that's a different material), this is the time to do it. The second picture below is from a time when I wanted to add a layer later on. It turned out to be a tone of awkward extra work since I couldn't get the trapezoids to align exactly correctly.
 
 <div class="row">
     <div class="col-md-6">
