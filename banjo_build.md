@@ -309,4 +309,14 @@ The rim is good for now. We'll come back to it when it's time to cut some holes 
 
 ## Building the neck
 
-Coming soon...
+Time to build a neck. It's hard to do this first because your scale length (the distance from the nut to the bridge) will depend on the final size of your rim. It's not a like a guitar, where you glue the bridge into place, but you want it to sit roughly 55% of the way down the banjo head. You'll move it around later and, since this is fretless, we have much, much more flexibility than we would have otherwise.
+
+### Measuring the pieces
+
+Now's the time to decide your scale length. It will change the length of the neck. It's usually 26 to 27 inches. If you like your current banjo, go ahead and measure it. We'll use this number to calculate one of our cuts.
+
+I linked to a plan for the neck above. Here's a version with a little bit more detail. Pardon my handwriting: I'll reiterate everything below. This also labels the parts of the neck (peghead, heel, and dowel stick) so that there's no confusion.
+
+<a href="images/neck_plan.jpg">
+    <img src="images/neck_plan_sm.jpg" class="img-responsive" alt="A plan for the neck">
+</a>
