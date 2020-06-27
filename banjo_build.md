@@ -63,7 +63,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Band saw, circular saw, or panel saw:** You need something to make the big cuts. Access to a band saw is best.
 * **Drill:** for starting your peg holes
 * **Router:** This can be useful for a fingerboard scoop, but there are other ways to do that, too. I did the scoop on the cherry banjo above with a router (I wanted that flat bottom) and cut out the deep scoop on the other one by hand.
-* **Power sander:** I rigged up an old belt sander to work as a bench sander. It made a huge difference and was pretty easy to do. You just need to attach some scrap pieces to a larger board so you can clamp it down. Then I shoved a wedge-shaped piece of scrap into the handle to hold in on. In the future, I'll get a foot pedal. An oscilating sander can help, too, but not until pretty far into the project.
+* **Power sander:** I rigged up an old belt sander to work as a bench sander. It made a huge difference and was pretty easy to do. You just need to attach some scrap pieces to a larger board so you can clamp it down. Then I shoved a wedge-shaped piece of scrap into the handle to hold in on. In the future, I'll get a foot pedal. An oscillating sander can help, too, but not until pretty far into the project.
 
 <a href="images/belt_sander.jpg">
     <img src="images/belt_sander_sm.jpg" class="img-responsive" alt="A rigged up belt sander">
@@ -79,7 +79,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Peg reamer:** This is for tapering the holes so that the pegs fit. It's the only banjo-specific tool here and, I can say from experience, that [the one from Stew-Mac](https://www.stewmac.com/luthier-tools-and-supplies/types-of-tools/reamers/peghole-reamers.html) is worth the money when compared to cheap ones on Amazon.
 * **Sharpening stone:** You can probably get through a job without this, but it's how you sharpen a chisel and hand plane in the future. There are lots of kinds. They all work. Eventually, if you continue with hand tools, you would want a fine and course grit stone (you can get one with two sides), a leather "strop," and some polishing compound.
 
-### Not sure if these are tools or materials
+### Tools or materials?
 
 * **Eye, ear, and respoatory protection:** Goggles and ear plugs (for power tools) are a must. So are dust masks (like N95s), especially with certain types of woods that can mess with your lungs.
 * **Sandpaper:** You'll be sanding forever. Get a box of quality paper in a range of grits up to 400 or so. I've bought the cheap stuff. It doesn't work well.
@@ -363,7 +363,7 @@ The first major cut you'll make is for the face of the peghead. You want a strai
     <img src="images/peghead_cut_sm.jpg" class="img-responsive" alt="Getting the peghead together">
 </a>
 
-### Attaching the peghead face and fingerboard
+### Peghead face and fingerboard
 
 I like the look of a peghead top and fingerboard that's about 1/4" thick. This may mean some sanding or hand planing. More importantly, it has to be really really flat. It's a fingerboard, after all. You could put a radius on it (like a guitar), but I don't think that's particularly necessary for a fretless. If the wood is really hard (which it should be), then this could take a while. Clamp it down, dig in, and see you in a few days. For these builds, I used the same piece of wood for both. I like the look of this, because the grain patterns connect across the neck and down the peghead.
 
@@ -375,4 +375,78 @@ Since the rest of the fingerboard is squared off, adjust the saw back to 90°, m
 
 Get the glue and clamps back out, line up the peghead face and glue. Then, use all those clamps again to get the fingerboard. This one is the longest glue job you have, so be careful to space out as many clamps as you can across it. Any gaps will show up when you start cutting the neck into shape.
 
-### More rough cuts (the heel and dowel stick)
+### Roughing the heel and scoop
+
+With the neck on its side, you can draw the shape that you would like for the heel. The main two options are rounding it over or coming to a sharper point (like a boat). Do an image search online for custom banjos and you'll see a whole host of options. While you're there, take a look at peghead shapes. We'll come back to that. Do the same for the scoop.
+
+For all of these cuts, and many others as we get to the sides, there's a good hand tool technique that uses the kerf of the saw to make life easier. Basically, you cut a whole bunch of lines up to your actual cut line so that you can more easily cut or chisel out the waste. [The site I referenced above has a page with some great pictures of this.](https://www.thekimerers.net/brian/minstrel2/slope.shtml) It's far easier to see than explain. I like a shallower move down the neck with a steeper dip into the heel than in these photos, but I don't have any from this step. I'll have to take some next time. 
+
+Repeat this process to cut out the slope of the back of the neck and the scoop.
+
+### Drawing the shape of the neck
+
+### A note on the double ogee
+
+### Drawing and cutting the peghead
+
+### Drilling peg holes
+
+### Cutting the neck shape
+
+### Drawing and cutting the dowel stick
+
+The dowel stick tapers from the base of the heel through the end. The exact measurement isn't particularly important since you'll be cutting a hole to match whatever you have.
+
+### Shaping the back of the neck
+
+### Carving the heel
+
+### Fitting the pegs
+
+## Assembling the neck and rim
+
+### Measuring holes in the rim
+
+### Cutting holes in the rim
+
+### Fitting the rim
+
+### Attaching the rim
+
+## Attaching the skin
+
+### Preparing the skin
+
+### Tack layout
+
+### Tack fit and pilot holes
+
+### Preparing the rim
+
+### Gluing, tacking, and drying
+
+## Other pieces
+
+### Making the nut
+
+### Making the bridge
+
+### Making the tailpiece
+
+## Applying the finish
+
+### More sanding
+
+### Finishing (but not finishing)
+
+### Waxing
+
+## Setup
+
+### Preparing the tailpiece
+
+### Installing strings
+
+### Setting up the bridge
+
+### Retuning over and over
