@@ -382,11 +382,77 @@ For all of these cuts, and many others as we get to the sides, there's a good ha
 
 Repeat this process to cut out the slope of the back of the neck and the scoop.
 
-### Drawing the shape of the neck
+### Planning the neck
+
+It's time for some of the most interesting design choices: choosing a neck shape and a peghead shape. First, keep poking around internet image searches. Just look at lots of stuff and see what you think.
+
+I already linked to the Romero site, but here's another one that's full of some wild building: [Jeff Menzies Instruments](https://www.facebook.com/menziesinstruments/). His main page seems to be down right now.
+
+While looking, keep an eye out for how the fifth string peg works. Since we're using violin pegs, the side gears are not really an option. I've seen pegs going into the sides, but I think you'd need to cut off the end of your reamer to do that and, well, I'm not willing to.
+
+The [Banjo Database](http://www.banjodatabase.dreamhosters.com/) is another great place to look. These are mostly older minstrel-style banjos. Some of them have tons of pictures and Greg Adams and his team (who started the page) went and visited many of these to take measurements. I used this site extensively when getting started because of how helpful the measurements are.
+
+[Pete Ross's gourd banjos](http://www.banjopete.com/minstrel-era.html) are also a good place to look for some ideas.
+
+The main choice you have is between a straight necked banjo with a lip popping out for the fifth string and a minstrel-style double ogee. This is the set of curves that you see on some of these older ones. You can also get creative: I made a last minute decision to turn my last neck into a wide curve that sweeps across the neck where the scoop would go.
+
+<a href="images/purpleheart_face.jpg">
+    <img src="images/purpleheart_face_sm.jpg" class="img-responsive" alt="A sweeping neck shape">
+</a>
+
+<a href="images/cherry_unfinished.jpg">
+    <img src="images/cherry_unfinished_sm.jpg" class="img-responsive" alt="A sweeping neck shape">
+</a>
+
+The peghead offers a host of other options. Go an image search for "banjo peghead templates" and you'll find some useful charts. After checking out your options by looking at real photos, reverting to these charts will be important for drawing your own on your neck. ([The template chart from Romero](http://www.romerobanjos.com/peghead) is really nice, it shows the shapes alongside real examples and labels each with proper names. If the page moves and breaks this link, the internet image search should still pull similar things up.)
 
 ### A note on the double ogee
 
+The winding double ogee edge is worth an extra moment of consideration. This can be purely decorative, but, if you set it up right, the points and bumps serve as markers up the neck.
+
+Here is that same image from above, but with the markers put in. If you wanted to do this, a set of French curves is worth the few dollars that they cost from an art supply or arts and crafts shop.
+
+<a href="images/double_ogee.jpg">
+    <img src="images/double_ogee_sm.jpg" class="img-responsive" alt="A sweeping neck shape">
+</a>
+
+### Drawing the shape of the neck
+
+There's some math coming up again. The easiest way to check your work on drawing (or shaping) the neck will be returning to a banjo that you like. Measure and copy it.
+
+The center line starts us off. Measure the middle of your neck blank by the nut and the rim end. Draw a line. That's your third string. Easy.
+
+Now you get to think about string spacing. I like a wide spacing and, since these are nylon, they're likely to be for clawhammer or older styles of finger playing. These are not bluegrass banjos. String spacing gets measured at two points: the nut and the bridge. It's common for them to widen very slightly so that left hand fingering is easier and the right hand has more space to maneuver.
+
+Here's the catch: there's no bridge on your neck. It'll be over the rim. Instead of drawing it over the dowel stick and hoping that you are lining things up, you can split the difference and measure at the 12th fret.
+
+So where's the 12th fret? It's halfway down your scale: if you are doing a 26" scale, mark the 12th fret 13" away from the nut. Draw it right on there. You could use the painters tape if it's too dark to see.
+
+While you're at it, mark off the fifth fret, where the fifth string will end. This is a ratio and not just 5/12ths or whatever. Easiest way: find a fret position calculator. [The one from StewMac](https://www.stewmac.com/FretCalculator) is good. Use 24 frets (doesn't matter) and put in your scale length. The instrument doesn't matter, either. Then, find the 5th fret measurement and mark it down. For a 26" scale, it comes out to 6.522". That's close enough to 6 1/2" for us.
+
+I like a 3/8th inch string spacing at the nut and a 1/4" spacing at the bridge, which means that the spacing at the 12th fret is halfway between: 7/16ths. Mark two strings worth of spacing in each direction at the nut and 12th string, then connect those lines with a straight edge. The fifth string doesn't go all the way up to the nut, so you can stop the line at the 5th fret marker that you put in earlier.
+
+Warning! Make sure you put the fifth string on the right side! It should be on the top when you hold it in your hand. I did this backward once and made a left handed banjo by mistake. I caught it quickly, was able to reglue the pieces, and you could barely tell, but that was boneheaded.
+
+The neck should be about 1/8" wider than the strings, so make some measurements and draw another line just outside of the outer strings.
+
+Lastly, you can draw in whatever you're looking to do for the fifth string and, if you are doing it, the double ogee curves. (You'll need to return to that fret calculator to get the measurements for the double ogee.)
+
+Sit back say, hey! Then hold it and make sure that everything makes sense. It's a big block, but the drawing helps to make it seem a bit more real.
+
+**TODO: IMAGE**
+
 ### Drawing and cutting the peghead
+
+The peghead is simpler. Go back to that template you found and pull it up on your computer. Use some image editing software to make it bigger. If you crop it right to the edge of the image, you can use real life measurements in something like Preview on macOS (under "Adjust Size"). You'll want it about 6" tall, but make sure you're measuring the piece of wood so that it's not too big...
+
+Then, print it out and tape it where it goes so that you can trace it. Some people glue it to a piece of cardboard to make it easier to trace.
+
+Make sure that you poke holes in the center of where the pegs go. You need to mark these spots so you can drill the holes. After you take it off, check the spacing of the holes against the size of the heads of your pegs: you don't want the pegs so close together that you can't turn them.
+
+**TODO: IMAGE**
+
+Time to cut. A hand saw will get lots of waste off quickly and a coping saw will cut those corners off. I like to do the peghead first so that the waste is out of the way when it's time to get to the long, straight lines of the neck. At least a little bit out of the way.
 
 ### Drilling peg holes
 
