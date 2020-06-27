@@ -62,7 +62,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Mitre saw, chop saw, or radial arm saw:** This will help you when you're cutting blocks for the rim and for smaller tasks elsewhere.
 * **Band saw, circular saw, or panel saw:** You need something to make the big cuts. Access to a band saw is best.
 * **Drill:** for starting your peg holes
-* **Router:** This can be useful for a fretboard scoop, but there are other ways to do that, too. I did the scoop on the cherry banjo above with a router (it's flat) and cut out the deep scoop on the other one by hand.
+* **Router:** This can be useful for a fretboard scoop, but there are other ways to do that, too. I did the scoop on the cherry banjo above with a router (I wanted that flat bottom) and cut out the deep scoop on the other one by hand.
 * **Power sander:** I rigged up an old belt sander to work as a bench sander. It made a huge difference and was pretty easy to do. You just need to attach some scrap pieces to a larger board so you can clamp it down. Then I shoved a wedge-shaped piece of scrap into the handle to hold in on. In the future, I'll get a foot pedal. An oscilating sander can help, too, but not until pretty far into the project.
 
 <a href="images/belt_sander.jpg">
@@ -202,7 +202,7 @@ Fingerboard | 2-3' | 4" | 1" | 8-12
 
 A block rim is basically a stacked set of "laminations." Each of these is an octagon (though you also see 12 or 16 segments). You can mismatch pieces to get a checkerboard pattern or use different woods for different laminations for stripes, rim caps, wooden tone rings, etc. There are a bunch of videos and examples around the internet, this is a distillation that I've used.
 
-### Cutting blocks
+### Cutting rim segments (the blocks)
 
 Splitting a circle into segments involves some math for angles. Look back at that layout example above, that's where these numbers below come from. You're dividing 180° by the number of segments. I found it useful to draw up a plan: this is for a 16-segment rim that I hope to do sometime soon. There's a smaller one in there for a banjo ukelele that I want to make for my kiddos. It's hard to read, since I drew this out on brown paper, but it might be worth the time to sketch out what you're looking for, especially if you are not doing an 11- or 12-inch rim. The measurements for those are below.
 
@@ -263,6 +263,50 @@ Then, roll it up, use the end of the tape to hold it nice and tight, wipe off an
     </div>
 </div>
 
-### Trimming the laminations
+### Roughing out the laminations
 
-Up next...
+Most rims are around a half inch thick and round, not octogons. It's time to get a rough cut of each lamination so that they are easier to glue together and sand evenly.
+
+Before you can cut, you have to mark. There are plenty of ways to do this, but I found it easiest to simply make a guide out of cardboard (Amazon boxes). Use a compas to cut a circle with your outer diamter and another with the inner diameter. Leave some give, so plan on a 3/4" rim for now. You'll slowly work it down to size after they're glued together. The last thing you want is a dip in one lamination. 
+
+The two here are 10 1/2" and 8 3/4", leaving 1 3/4". Remember that this devides in half (there are two widths of rim within the diameter), so they make a 7/8" rim. It's pretty easy to get this down using power sanders, but not so much by hand, so you'll have to balance the reward of starting closer to the target thickness against the risk of ending up things not lining up quite right. Remember, too, that you'll be gluing a skin on, so it doesn't need to align with a standard size measurement.
+
+<a href="images/rim_guides.jpg">
+    <img src="images/rim_guides_sm.jpg" class="img-responsive" alt="My rim guides">
+</a>
+
+The easiest way to do this (by far) is to use a spindle sander for the inside and band saw for the outside, but those are expensive. (Lots of videos use a lathe with a giant chuck or big old piece of wood glued to paper to hold it on, though.)
+
+You just run the outside through the bandsaw to get a rough circle, then pop each octogon over the spindle and hog out wood until you have a circle. No worries about cleaning things up yet. That will come after gluing.
+
+I can think of a few ways to do it without those specific power tools. Sawing the angles off until you get close to the outer ring size isn't a big deal. A coping saw should do the trick for the inside. You could also use a hand saw to "kerf" the insize with little cuts right up to the line, then use a chisel to knock out the waste wood.
+
+### Gluing up the rim
+
+Once you have the rough shapes cut, it's time to glue the laminations together. This is pretty straightforward. First, do lots and lots of sanding to make sure that the glue surfaces are clean and even. Then do more. And again. And some more. 
+
+Stack the laminations up and think about how you want to align them. If you're doing a fancy checkerboard, this is the time to get it set. You want the segments to overlap in each layer so that they provide extra strength for each other. Go ahead and mark a few lines so that you know where the layers intersect once you put glue on.
+
+Then, spread some glue on each side of the glue surface and set them up. Put the clamps on loosely, to hold, then tighten them little by little, moving around the rim as you do it. Glue slides, so getting one cranked down may mean that you're off a bit and can't move it. Take your time and get them tight. Wipe off the excess as it bleeds out and leave it overnight. (If I knew that I were writing this, I would have taken more pictures of each of these steps!)
+
+### Sanding
+
+Pull out the belt sander, if you have one, and start shaping the rim. You want a nice clean circle. The inside is a pain without a spindle sander, but way-too-much hand sanding will get you there. Start with the coursest sandpaper and don't step it up until you're pretty much where you want to be. (I go from 80 to 220.) It's definately worth using a sanding block here: either wrap a piece of sand paper around a scrap piece of wood or glue it right onto a scrap. This keeps your sanding straight and efficient.
+
+Once the walls are even, smooth, and feel really nice, you can think about the top and bottom. The bottom is flat. A few runs on the edges with sandpaper will pull off the sharp edge, but if you're hand sanding, you probably knocked that corner off already.
+
+The top is different. You want a banjo rim to come in contact with the skin evenly and only in one spot. For this reason, you need to be absolutely sure that the top is flat. The easiest way to do this is to put it on a flat surface (a piece of glass is good, but a trustworthy table works, too). If it rocks, you need to sand off the high spots that make it rock.
+
+Then, you only want the rim to hold the skin at it's outermost part. Most banjos use tone rings to do this: a brass hoop or something similar that sits on the rim and holds the skin. We'll do a "wooden tone ring" by angling the top down as you move from the outer to the inner edge. 
+
+I've found it to be pretty quick work on my mounted belt sander. You can hold the rim at an angle and just wind it through to "cut" (sand) the bevel. Hand sanding (by finger or with a block) would do the job too. The bevel doesn't matter so much; you're just trying to get the wood out of the way of the skin so that it can ring nicely. Once you're done, run the sand paper over the top a few more times to wear away any sharp points that could tear the skin and flip it upside down again to ensure that it's perfecetly flat.
+
+<a href="images/sanded_rim.jpg">
+    <img src="images/sanded_rim_sm.jpg" class="img-responsive" alt="A sanded rim with bevel in from the outside edge">
+</a>
+
+The rim is good for now. We'll come back to it when it's time to cut some holes for the dowel stick, but that's not until after the neck is done.
+
+## Building the neck
+
+Coming soon...
