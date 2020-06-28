@@ -408,15 +408,20 @@ The [Banjo Database](http://www.banjodatabase.dreamhosters.com/) is another grea
 
 [Pete Ross's gourd banjos](http://www.banjopete.com/minstrel-era.html) are also a good place to look for some ideas.
 
-The main choice you have is between a straight necked banjo with a lip popping out for the fifth string and a minstrel-style double ogee. This is the set of curves that you see on some of these older ones. You can also get creative: I made a last minute decision to turn my last neck into a wide curve that sweeps across the neck where the scoop would go.
+The main choice you have is between a straight necked banjo with a lip popping out for the fifth string and a minstrel-style double ogee. This is the set of curves that you see on some of these older ones. (You can also tell that my rim, which was steam bent, is not quite a circle. And it still works.) You can also get creative: I made a last minute decision to turn my last neck into a wide curve that sweeps across the neck where the scoop would go.
 
-<a href="images/purpleheart_face.jpg">
-    <img src="images/purpleheart_face_sm.jpg" class="img-responsive" alt="A sweeping neck shape">
-</a>
-
-<a href="images/cherry_unfinished.jpg">
-    <img src="images/cherry_unfinished_sm.jpg" class="img-responsive" alt="A sweeping neck shape">
-</a>
+<div class="row">
+    <div class="col-md-6">
+        <a href="images/purpleheart_face.jpg">
+            <img src="images/purpleheart_face_sm.jpg" class="img-responsive" alt="A sweeping neck shape">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="images/cherry_front.jpg">
+            <img src="images/cherry_full_sm.jpg" class="img-responsive" alt="A sweeping neck shape">
+        </a>
+    </div>
+</div>
 
 The peghead offers a host of other options. Go an image search for "banjo peghead templates" and you'll find some useful charts. After checking out your options by looking at real photos, reverting to these charts will be important for drawing your own on your neck. ([The template chart from Romero](http://www.romerobanjos.com/peghead) is really nice, it shows the shapes alongside real examples and labels each with proper names. If the page moves and breaks this link, the internet image search should still pull similar things up.)
 
@@ -500,7 +505,7 @@ Before drilling, make a starter with a nail or something similar so that your dr
 
 ### Cutting the neck shape
 
-How you cut the neck will depend on how curvy you made it. If it's straight lines, you can get away with using a circular saw to plow a bunch of wood out on the rough cut. Just keep an eye out, it would be a shame to mess things up now. 
+How you cut the neck will depend on how curvy you made it. If it's straight lines, you can get away with using a circular saw to plow a bunch of wood out on the rough cut. Just keep an eye out, it would be a shame to mess things up now.
 
 A hand saw is far safer for cuts that are long and straight, but there's a lot of wood and maple, for example, is really hard. It's not a fun day. Cut off chunks of waste to make things easier to handle as you make your way through the cut(s).
 
