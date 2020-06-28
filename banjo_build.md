@@ -99,6 +99,7 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 **Strings:** [Aquila Nylgut nylon strings](https://aquilacorde.com/en/shop/modern-instrument-string-sets/timeless-banjo-minstrel-banjo-en/nylgut-banjo-and-minstrel-banjo/) work well for this kind of instrument. I've used the red series, the regular nylon, and the minstrel set. The reds have a texture to them that feels really nice, but it's preference. Using the minstrel set will put your banjo about a fourth below standard tuning.
 * **Scrap wood:** You'll need some for the nut (hard maple works well, or you could use scrap from the fingerboard), bridge, tailpiece, and heel cap (if you want one). Fingerboard scraps look good for the tailpiece and heel cap. You could also use them for the nut, if they're good and hard. 1/4" thick would do well. For the bridge, pine works for nylon strings, but maple is more common. It's also common to cap maple with something harder. (Maybe more fingerboard scrap?)
 * **Fishing line:** There are a few ways to connect a tail piece to the dowel. Thick (heavy gauge) fishing line is one of them.
+* **Gig bag:** Obviously, this is optional, but you can get one for $30 or $40 on Amazon.
 
 ### Some optional details
 
@@ -550,17 +551,22 @@ This is also the time to cut, fit, and glue a keep cap if you are using one. Jus
 
 When you're happy, start sanding with a coarse grit and work your way up to about 220. Keep the mask and goggles on and add an apron. This one's messy.
 
-Here are some shaped necks. Note that the one made out of cherry with a stripe doesn't have a dowel stick. I wanted to try making one after the fact. It's not too bad, but this process here is a little simpler. Also, your pegs won't fit yet. That's coming soon.
+Here are some shaped necks. Note that the one made out of cherry with a stripe doesn't have a dowel stick. I wanted to try making one after the fact. It's not too bad, but this process here is a little simpler. Also, your pegs won't fit yet. That's coming soon. The last photo here is actually finished and not just shaped, but it gives a good idea of one way to shape the back of a neck with a double ogee on it.
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
         <a href="images/poplar_neck_sanded.jpg">
             <img src="images/poplar_neck_sanded_sm.jpg" class="img-responsive" alt="Sanded neck with peg">
         </a>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
         <a href="images/cherry_neck_sanded.jpg">
             <img src="images/cherry_neck_sanded_sm.jpg" class="img-responsive" alt="Sanded neck">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="images/shaped_ogee.jpg">
+            <img src="images/shaped_ogee_sm.jpg" class="img-responsive" alt="Shaped double ogee">
         </a>
     </div>
 </div>
@@ -595,15 +601,109 @@ Finally, mark a spot that's a little bit above where the peg emerges from the fi
 
 ## Assembling the neck and rim
 
+This is a tricky part of the build, but it's also one of the most satisfying to finish up. Once you're done, you'll have two pieces that fit together and look something like a banjo.
+
+### Neck angle
+
+There is a lot of discussion online about banjo neck angles. If you look at old minstrel banjos, there are examples where the neck angle is 0°. Other boards talk about angles that are steeper, around 3°.
+
+These are describing the angle of the neck in reference to the rim. If you lay a bajno (that has no strings or bridge) face down on a table, the neck will usually be tilted back a tiny bit. This adds some downward pressure on the bridge: the neck "pulls" the string backward and into the banjo head.
+
+I have had luck splitting the difference, which accounts for the idea that the angle can help, but you don't need much since we have nylon strings. I aim for 1 to 2° and allow for some wiggle room. You can use the same process, but decide on a different angle if you so desire.
+
+The neck angle is relevant because we need to cut some holes in the rim so that the neck and rim can attach. If we lay both flat and put both holes at the same height on the rim, we'll have a 0° neck angle. If we want the neck to angle away a little bit, the we are going to have to adjust our holes and they won't line up at exactly the same height.
+
+**IMAGE NECK ANGLE**
+
 ### Measuring holes in the rim
+
+You need five measurements to cut these rectangular holes:
+
+1. The bottom of the rim to the bottom of the front hole he(by the heel)
+2. The bottom of the rim to the bottom of the back hole (by the end of the dowel stick)
+3. The hight of the dowel stick, and therefore, the height of the holes
+4. The width of the hole at the heel
+5. The width of the hole at the end
+
+The distances from the bottom of the rim to the bottom of the two holes are the most difficult to get. There's not a piece of wood to measure. And this also has to account for the neck angle.
+
+This (poorly drawn) diagram shows what you are looking for. Prop the neck up at the angle you want. You have to account for a straight line through the gap that you created when carving out a scoop.
+
+Thinking of a right triangle will help you create that neck angle. If you want 1°, you will have a long side (along the table and under the neck) and a hypotenuse (the neck from the end of the rim to the nut). If the far angle is 1°, you can use an online right triangle calculator to get the height of the neck at the nut.
+
+For our 26" scale neck with an 11" rim, we have 20" of neck. That's the hypotenuse. Our height comes out to about a third of an inch. Let's call it almost 3/8ths (0.375). Use some blocks and a straight edge to set this up. Then you can do some measurements.
+
+You know the height of your rim (if not, just measure it). The difference between the rim height and the height of the dowel stick at the heel. Then measure the diameter of the rim down the length of the dowel on the flat surface of the table (not along the dowel, which is angled).
+
+The height of the dowel stick at each of these points is the distance from the *top* of the rim. Everything is upside down. Subtract that from the height of the rim to get the distance up from the bottom of the rim for the bottom of the two holes.
+
+Be sure to measure straight up from the corner of the imaginary plane extending from the fingerboard and go *straight up*. You are going to cut (carve) this angle out later so that the rim comes in flush with the heel of the neck.
+
+**IMAGE: SET UP TO MEASURE, SHOW OTHER ANGLES**
 
 ### Cutting holes in the rim
 
-### Fitting the rim
+Once you have the measurment from the bottom of the rim to the bottom of the hole, you can make your square. The height of the square is the thickness of the dowel stick. The width is the width of the dowel stick.
+
+To locate the squares, decide on a front and back of the rim and mark the two points. You may want to hide a nasty patch in the heel of the neck. Always an option.
+
+Cutting the holes is straightforward, but a slow process. Use drill holes to get a bunch of the waste out, then go in with a file to flatten the sides. Start small, check for fit, then get a little bigger. Do it again and again. Remember that the heel sides of each cut will have to be a tiny bit wider than the tail sides since the dowel stick is constantly tapering. Take your time.
+
+These photos show a (somewhat gappy) final product. This is from my first banjo build, which had a steam bent rim.
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="images/heel_fit.jpg">
+            <img src="images/heel_fit_sm.jpg" class="img-responsive" alt="Fitting the heel side">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="images/tail_fit.jpg">
+            <img src="images/tail_fit_sm.jpg" class="img-responsive" alt="Fitting the tail side">
+        </a>
+    </div>
+</div>
 
 ### Carving the heel
 
+As you start to get closer to the heel, it'll be time to think about carving that angle and curve so that the rim can fit snugly.
+
+This is another job that can be done with any number of tools, but there is no really clean way to go about it. (If you have a separate dowel stick, you can use a spindle sander and do the job quickly.)
+
+File and chisel slowly so that you inch your way toward a snug fit. If you have good control, you may be able to draw in the final cut lines and use the saw kerfing method from the neck, but sharp carving tools are safer.
+
+This is another spot where something pretty is great, but something that fits snugly does the job. This image shows how the curve in the heel matches to the rim, but this particular build didn't have a dowel stick (I added it later). You can also tell that I wasn't quite done with the sanding. Sometimes you need to change up your jobs for the sake of sanity.
+
+<a href="images/rim_fit.jpg">
+    <img src="images/rim_fit.jpg" class="img-responsive" alt="Carving the neck to fit the rim">
+</a>
+
 ### Attaching the rim
+
+The easiest way to attach the rim is with screws. They're a little ugly, but they pull the rim tightly against the neck. An alternative is carving a slot and making a wedge-like "key." These look good, but I haven't tried it myself, yet. You can also drill a hole and use a pin, but that won't pull the pieces closer together. The string tension, should, though, so I imagine a pin would work.
+
+The dangerous part of screws is aiming so that you don't break through the outside of the neck. Depending on how you carved your heel, this may not be possible or may be a tight fit.
+
+Check your screw to get a bit that is the width of the shank and narrower than the thread. This will get you a good pilot hole diameter. Drill your holes so that they angle in toward the center of the neck.
+
+You don't want the screws to grab the rim. The screw head should pull the rim into the neck. Find a larger drill bit, one that is wider than the thread but narrower than the head. Use that to widen the holes in the rim.
+
+Then you can put the screw in and tighten it up. You may need to use a screwdriver instead of a drill here, but in any case, you should be able to get the rim nice and tight against the neck. If not, find the bumps and get the carving tools back out.
+
+Then, you can hold it up and see how it looks and feels like a banjo. That's a good moment.
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="images/neck_screws.jpg">
+            <img src="images/neck_screws_sm.jpg" class="img-responsive" alt="Using screws to attach the neck to the rim">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="images/assembled.jpg">
+            <img src="images/assembled_sm.jpg" class="img-responsive" alt="It looks kinda right!">
+        </a>
+    </div>
+</div>
 
 ## Attaching the skin
 
