@@ -314,7 +314,7 @@ Time to build a neck. It's hard to do this first because your scale length (the 
 
 Now's the time to decide your scale length. It will change the length of the neck. It's usually 26 to 27 inches. If you like your current banjo, go ahead and measure it. We'll use this number to calculate one of our cuts.
 
-I linked to a plan for the neck above. Here's a version with a little bit more detail. Pardon my handwriting: I'll reiterate everything below. This also labels the parts of the neck (peghead, heel, and dowel stick) so that there's no confusion.
+I linked to a plan for the neck above. Here's a version with a little bit more detail. Pardon my handwriting: I'll reiterate everything below. This also labels the parts of the neck (peghead, heel, and dowel stick) so that there's no confusion. This is very much not to scale.
 
 <a href="images/neck_plan.jpg">
     <img src="images/neck_plan_sm.jpg" class="img-responsive" alt="A plan for the neck">
@@ -545,6 +545,8 @@ It's another good time to return back to an instrument that you like. Feel the t
 A drawknife is incredible for this job and I've heard that a spokeshave works really well, too. I never had one, but found an old Stanley for $25 or so from [Hyperkitten](https://www.hyperkitten.com/HKTC_new/index.php) and I look forward to trying it on my next build.
 
 An angle grinder with a carving tool or a spindle sander work so well that they feel like cheating.
+
+This is also the time to cut, fit, and glue a keep cap if you are using one. Just cut it out and glue it on. As always, make sure that your glue surfaces are flat and you clamp well. Don't forget to shape and sand your scoop, too.
 
 When you're happy, start sanding with a coarse grit and work your way up to about 220. Keep the mask and goggles on and add an apron. This one's messy.
 
