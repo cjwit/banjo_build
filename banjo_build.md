@@ -340,6 +340,12 @@ Neck | 23" to 24": 3" (peghead) + 1/4" (nut) + 1/4" (heel end) + (scale length -
 Heel middle | 12"
 Dowel stick | 20" to 24": 6" + rim diameter + a few extra inches
 
+Here's the wood for two necks, all cut.
+
+<a href="images/cut_wood.jpg">
+    <img src="images/cut_wood_sm.jpg" class="img-responsive" alt="Cutting the wood">
+</a>
+
 One last thing before marking everything up: this is the time to consider how the pieces will look when they are laid out. If you have something with distinctive patterning or grain, like the ambrosia maple in this picture, it's worth taking a moment to look at it and see if there's a way to make it work well for you. As you can see, it's not perfect, but having the grain line up a little bit can make a difference. This is also the time to avoid any knots.
 
 <a href="images/purpleheart_neck.jpg">
@@ -353,6 +359,14 @@ Before getting out the glue, be sure that all of the faces sit together perfectl
 When you lay them out on a table to check, you can also write numbers and arrows to be sure that you join the right faces together when gluing. This is especially worthwhile if you took the time to line up grain patterns. Just draw lines on the sides and write all over the faces. It'll all get covered in glue (more wood) or cut off.
 
 After "dry fitting" the pieces and rechecking them over and over, get out the glue and as many clamps as you can find. This will take a few days if you don't have way too many clamps lying around. Do a piece or two at a time, crowd the clamps on to get it tight, and let it dry. Take them off, add another piece or two, and do it again. If the pieces don't glue on perfectly straight, it's not a huge deal. You'll be cutting the neck out of this so all the edges will be gone soon anyhow.
+
+<a href="images/neck_gluing.jpg">
+    <img src="images/neck_gluing_sm.jpg" class="img-responsive" alt="Clamping and gluing">
+</a>
+
+<a href="images/neck_clamping.jpg">
+    <img src="images/neck_clamping_sm.jpg" class="img-responsive" alt="Clamping and gluing (another view)">
+</a>
 
 ### Cutting the peghead profile
 
@@ -430,7 +444,9 @@ So where's the 12th fret? It's halfway down your scale: if you are doing a 26" s
 
 While you're at it, mark off the fifth fret, where the fifth string will end. This is a ratio and not just 5/12ths or whatever. Easiest way: find a fret position calculator. [The one from StewMac](https://www.stewmac.com/FretCalculator) is good. Use 24 frets (doesn't matter) and put in your scale length. The instrument doesn't matter, either. Then, find the 5th fret measurement and mark it down. For a 26" scale, it comes out to 6.522". That's close enough to 6 1/2" for us.
 
-I like a 3/8th inch string spacing at the nut and a 1/4" spacing at the bridge, which means that the spacing at the 12th fret is halfway between: 7/16ths. Mark two strings worth of spacing in each direction at the nut and 12th string, then connect those lines with a straight edge. The fifth string doesn't go all the way up to the nut, so you can stop the line at the 5th fret marker that you put in earlier.
+I like a 3/8th inch string spacing at the nut and a 7/16ths of space at the bridge, which means that the spacing at the 12th fret is halfway between: 15/32nds. It's basically a pencil mark over the line and mostly relevant for the sides of the neck. The strings will go where we want when we make the bridge.
+
+Mark two strings worth of spacing in each direction at the nut and 12th string, then connect those lines with a straight edge. The fifth string doesn't go all the way up to the nut, so you can stop the line at the 5th fret marker that you put in earlier.
 
 Warning! Make sure you put the fifth string on the right side! It should be on the top when you hold it in your hand. I did this backward once and made a left handed banjo by mistake. I caught it quickly, was able to reglue the pieces, and you could barely tell, but that was boneheaded.
 
@@ -438,9 +454,19 @@ The neck should be about 1/8" wider than the strings, so make some measurements 
 
 Lastly, you can draw in whatever you're looking to do for the fifth string and, if you are doing it, the double ogee curves. (You'll need to return to that fret calculator to get the measurements for the double ogee.)
 
+This image shows the stages that I describe above. It's not to scale.
+
+<a href="images/drawing_plan.jpg">
+    <img src="images/drawing_plan_sm.jpg" class="img-responsive" alt="Steps for drawing">
+</a>
+
 Sit back say, hey! Then hold it and make sure that everything makes sense. It's a big block, but the drawing helps to make it seem a bit more real.
 
-**TODO: IMAGE**
+<a href="images/neck_drawing.jpg">
+    <img src="images/neck_drawing_sm.jpg" class="img-responsive" alt="Drawing and cutting the neck">
+</a>
+
+This image shows two necks, one is drawn and I already cut the other. You can see that the edges are really ragged from the first round of cutting. That's fine, they'll get cleaned up later. You're not cutting yet anyhow.
 
 ### Drawing and cutting the peghead
 
@@ -450,23 +476,115 @@ Then, print it out and tape it where it goes so that you can trace it. Some peop
 
 Make sure that you poke holes in the center of where the pegs go. You need to mark these spots so you can drill the holes. After you take it off, check the spacing of the holes against the size of the heads of your pegs: you don't want the pegs so close together that you can't turn them.
 
-**TODO: IMAGE**
+<a href="images/cutting_peghead.jpg">
+    <img src="images/cutting_peghead_sm.jpg" class="img-responsive" alt="Cutting the peghead">
+</a>
 
 Time to cut. A hand saw will get lots of waste off quickly and a coping saw will cut those corners off. I like to do the peghead first so that the waste is out of the way when it's time to get to the long, straight lines of the neck. At least a little bit out of the way.
 
+Notice how it's clamped up in the photo. You're at a point where you don't want to clamp on to the fingerboard if you don't have to: it could dent it in a way that's a pain to get out later. Same for underneath: there are blocks holding it up so it's steady and the pressure is not on the neck itself. That gets harder to set up as we put a curve in the back.
+
+One other note: you have a choice here about how you cut the peghead. I like the look of lines that are perpendicular to the fingerboard and pegs that are perpendicular to the peghead (see the photos at the top of the page). You can also make the cut for the peghead sides perpendicular to the peghead face. Don't worry if you're off: as long as it holds pegs, it'll do the job.
+
 ### Drilling peg holes
+
+The goal here is a straight hole. If it's tilted, then the pegs will be tilted. Not a big deal—they just have to hold the strings—but your eye will see them out of alignment and it might drive you bonkers.
+
+If you don't have a drill press, you can put together a makeshift one with some scrap wood. Use a square (or whatever you have with an angle that you trust) and clamp two pieces into an L shape. This will guide your drill as you make the holes. Even if it's a little off, they'll be off in the same way. That's better than all over the place.
+
+<a href="images/drill_guide.jpg">
+    <img src="images/drill_guide_sm.jpg" class="img-responsive" alt="A makeshift drill guide">
+</a>
+
+Before drilling, make a starter with a nail or something similar so that your drill doesn't wander. Remember that the peghead/fingerboard wood is hard. And measure your peg shanks so that you know what size drill bit to use. It should be just smaller than the part of the shank that will go through the peghead. You'll widen it out with the reamer later. I've always used 1/4" holes.
 
 ### Cutting the neck shape
 
+How you cut the neck will depend on how curvy you made it. If it's straight lines, you can get away with using a circular saw to plow a bunch of wood out on the rough cut. Just keep an eye out, it would be a shame to mess things up now. 
+
+A hand saw is far safer for cuts that are long and straight, but there's a lot of wood and maple, for example, is really hard. It's not a fun day. Cut off chunks of waste to make things easier to handle as you make your way through the cut(s).
+
+For curves, you can go back to the coping saw, but it may be too weak to handle the thick stock. You may be better off using the kerfing technique from before. Sawing lines from the side and up to the cut line lets you get the chisel out and work pretty quickly.
+
+Regarding chisels: be careful about the wood grain. If you cut the wrong way, it will break along the grain in a way that you don't want.
+
+You'll end up with some messy lines, but your days of rasping, filing, and sanding will take care of those. These two necks are at different stages of filing.
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="images/two_cut_necks.jpg">
+            <img src="images/two_cut_necks_sm.jpg" class="img-responsive" alt="Two cut necks">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="images/cherry_neck_cut.jpg">
+            <img src="images/cherry_neck_cut_sm.jpg" class="img-responsive" alt="Two cut necks">
+        </a>
+    </div>
+</div>
+
 ### Drawing and cutting the dowel stick
 
-The dowel stick tapers from the base of the heel through the end. The exact measurement isn't particularly important since you'll be cutting a hole to match whatever you have.
+You can also see the dowel sticks in that picture above. The dowel stick tapers from the base of the heel through the end. The exact measurement isn't particularly important since you'll be cutting a hole to match whatever you have. Most are about 1" wide at the heel and a 3/4" wide where they exit the rim. Check out the banjo database for measurements on old instruments if you want to get picky.
+
+To get this drawn and cut, you'll first extend your center line all the way to the end of the wood. Mark 1/2" to each side of that line at the heel. Then mark the length of the diameter of the rim (11" or so). Go 3/8" to each side of the center line at that mark. Connect those dots and extend the lines to the end of the wood.
+
+There isn't much reason to cut the end shorter yet, but you're welcome to do so. If you do, be sure to leave 3" or so for the tailpiece. You can shorten it later, once you see it all together. Then cut those lines! It's important to keep these cuts as vertical as possible since they will line up with some holes on the rim later.
 
 ### Shaping the back of the neck
 
-### Carving the heel
+In some ways, this can be the most satisfying part of the entire project. You basically chisel, file, and sand until you have a neck shape that feels good in your hand. There's not a ton to say, except that you want to keep an eye on the lines along your fingerboard. Getting into corners is tough, but smaller chisels and files can do it pretty well.
+
+It's another good time to return back to an instrument that you like. Feel the thickness (that's better than measuring, in my experience). Use the coarsest tool for a long time and don't both switching it up until you get close to what you want.  Wear a mask and goggles.
+
+A drawknife is incredible for this job and I've heard that a spokeshave works really well, too. I never had one, but found an old Stanley for $25 or so from [Hyperkitten](https://www.hyperkitten.com/HKTC_new/index.php) and I look forward to trying it on my next build.
+
+An angle grinder with a carving tool or a spindle sander work so well that they feel like cheating.
+
+When you're happy, start sanding with a coarse grit and work your way up to about 220. Keep the mask and goggles on and add an apron. This one's messy.
+
+Here are some shaped necks. Note that the one made out of cherry with a stripe doesn't have a dowel stick. I wanted to try making one after the fact. It's not too bad, but this process here is a little simpler. Also, your pegs won't fit yet. That's coming soon.
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="images/poplar_neck_sanded.jpg">
+            <img src="images/poplar_neck_sanded_sm.jpg" class="img-responsive" alt="Sanded neck with peg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="images/cherry_neck_sanded.jpg">
+            <img src="images/cherry_neck_sanded_sm.jpg" class="img-responsive" alt="Sanded neck">
+        </a>
+    </div>
+</div>
 
 ### Fitting the pegs
+
+This is a pretty easy job and it's nice that you can do it inside while watching TV. A peg reamer widens your drill holes with a taper until your pegs fit. It's like a reverse pencil sharpener.
+
+One major tip: you want to be intentional about the peg sizes. You can always widen holes, but you can shrink them. And you want them to be sticking out the same length on the back of the peghead. (You will trim down the shank that goes through the peghead and comes out on the face side.)
+
+You can probably do this easily with calipers, but I made up a jig of sorts. Drill a hole in a piece of scrap from your neck using the same bit you used to make the peg holes in the first place.
+
+Use the reamer to widen this out a bit. You'll be comparing the pegs to each other, so it doesn't matter how wide it is.
+
+Take your eight pegs (remember that you had to buy two sets) and check them over. Sometimes one or two don't look as good as the others, especially if they were cheap. Then put the first one into the reamed hole. Measure how much of the shank sticks out between the block and the peg's head. Write that on a piece of tape and stick it to the peg. Do this for each peg.
+
+<a href="images/pegs.jpg">
+    <img src="images/pegs_sm.jpg" class="img-responsive" alt="Measuring pegs">
+</a>
+
+Then, you can line up your pegs by this measurement. Assuming that the tapers are all the same (they all fit well in the hole), you will know that the one with the most shank coming out was the one with the widest shank. This is important because you want to work in order.
+
+Now you can go back to the neck. Start with the fifth string hole, since that one is the most precarious (it's on the side of the neck) and you want to keep that hole the smallest. Ream it out until it tapers through the entire hole.
+
+Warning! Remember which way the taper goes! You ream from the back to the front: the peg head goes behind the instrument. You want the strings to go on the front, right?
+
+Take your thinnest peg (the one that had the shortest amount of shank when you measured earlier) and fit it into the hole. You want it to sit so that enough peg comes through the fingerboard that you can get some string on it later. If your pegs have holes drilled into them, ignore them. You'll make your own later.
+
+Then get your next thinnest peg (the next shortest measurement) and pick a hole on the peghead. Do the same thing, but work in order. And be absolutely sure to figure out a way to remember which peg goes to which hole. The main aesthetic thing here is working to get the peg heads to be an even distance from the back of the peghead. Working from thinnest to thickest lets you move to the next thickest one if you overshoot with the reamer.
+
+Finally, mark a spot that's a little bit above where the peg emerges from the fingerboard so that you can saw the ends off and sand them down. You want them to be even. This is also a good time to take a small drill bit and put a new hole in for your strings.
 
 ## Assembling the neck and rim
 
@@ -475,6 +593,8 @@ The dowel stick tapers from the base of the heel through the end. The exact meas
 ### Cutting holes in the rim
 
 ### Fitting the rim
+
+### Carving the heel
 
 ### Attaching the rim
 
