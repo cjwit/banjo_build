@@ -163,9 +163,11 @@ Steam bending involves building a steam box out of PVC, watching it melt, then d
 
 For the block rim, you get long pieces of wood, cut trapezoids, and assemble an octagon. After a bunch of prep work, you stack them and glue them together to get the proper depth.
 
-To get the size, you need to draw out a circle and work out the geometry. I found a thumbnail image once a while back that gives an idea, though. It's hard to read and the main site isn't there anymore. (If anyone in the internet has info, I'd love to link directly to the creator!)
+To get the size, you need to draw out a circle and work out the geometry. Randy from Bluestemstrings.com sent me an email shortly after I first pushed this to the wide web and graciously offered to let me post his plans for block rim segments. His site doesn't seem to be running anymore, but it's mentioned often in the banjohangout.com forums as really useful. [You can find it in the Wayback Machine, though](http://web.archive.org/web/20160408175705/http://www.bluestemstrings.com/pageBanjoConstructionTips1.html#POT), and it's worth looking around at his plans. This thumnail links to a PDF of his plans for rim segments.
 
-<img src="images/block-rim-patterns.jpg" class="img-responsive" alt="Patterns for block rim shapes">
+<a href="images/BluestemBanjoRimSegmentGuide.pdf">
+    <img src="images/BluestemBanjoRimSegmentGuide_sm.jpg" class="img-responsive" alt="Rim plan drawing">
+</a>
 
 Taking the larger size rim for the sake of overestimating the amount of wood, you need 8 segments that are each 5 3/16 inches on the outside. Since you flip the wood, it's really 4 times (5 3/16" + *math and stuff*). I'd guess high and call it 5 1/4" times 8 segments for 42" per lamination (per hoop that you'll glue together). If your wood is 1" thick and you want a 3" deep rim, you need three laminations. By the time you cut and sand, it might be short, so guess high. That's four laminations for 168" or 14 feet. The pattern gives a width of 1 11/16". A 2x4 prepped is usually 1 3/4" thick, not 2". So take the 1 11/16" and call it 2".
 
@@ -207,7 +209,7 @@ A block rim is basically a stacked set of "laminations." Each of these is an oct
 
 ### Cutting rim segments (the blocks)
 
-Splitting a circle into segments involves some math for angles. Look back at that layout example above, that's where these numbers below come from. You're dividing 180° by the number of segments. I found it useful to draw up a plan: this is for a 16-segment rim that I hope to do sometime soon. There's a smaller one in there for a banjo ukelele that I want to make for my kiddos. It's hard to read, since I drew this out on brown paper, but it might be worth the time to sketch out what you're looking for, especially if you are not doing an 11- or 12-inch rim. The measurements for those are below.
+Splitting a circle into segments involves some math for angles. Look back at that layout above, that's where these numbers below come from. You're dividing 180° by the number of segments. I found it useful to draw up a plan: this is for a 16-segment rim that I hope to do sometime soon. There's a smaller one in there for a banjo ukelele that I want to make for my kiddos. It's hard to read, since I drew this out on brown paper, but it might be worth the time to sketch out what you're looking for, especially if you are not doing an 11- or 12-inch rim. The measurements for those are below.
 
 <a href="images/rim_plan.jpg">
     <img src="images/rim_plan_sm.jpg" class="img-responsive" alt="Rim plan drawing">
@@ -233,7 +235,7 @@ From here, you just flip the stock (the long wood you are cutting) to align with
 
 When you get half of your segments for one of the laminations, lay them out on the floor. They should make a half circle. You can check by lining up a straight edge (a ruler or the long piece of wood that you're cutting). If it's way off, you'll want to adjust the angles and redo them. You can cut these a bit shorter (shave off the angle) and make a smaller rim if necessary. Since you're hopefully working with scrap, that's not a problem. A small half circle will give you the same angles as a large one.
 
-Once you're set, get your regular stock (or put it back on) and keep cutting. If you are doing 3 laminations of 8 segments, you'll need 24 of these segments. Lay out and check your octagons as you go. (This photo shows them glued and taped, which comes next, but you get the idea.)
+Once you're set, get your regular stock (or put it back on) and keep cutting. If you are doing 3 laminations of 8 segments, you'll need 24 of these segments. Lay out and check your octagons as you go. [The description of this process at Bluestemstrings.com](http://web.archive.org/web/20160408175705/http://www.bluestemstrings.com/pageBanjoConstructionTips1.html#POT) suggests leaving the last segment a little long so that you can adjust it to make everything else fit. I had not seen this before and will probably try it out the next time around, I bet it will save some headaches. (This next photo shows the segments glued and taped, which comes in a moment, but it shows the general idea of how the alignment works.)
 
 <a href="images/layout_segments.jpg">
     <img src="images/layout_segments_sm.jpg" class="img-responsive" alt="Laying out rim segments">
