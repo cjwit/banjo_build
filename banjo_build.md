@@ -610,7 +610,7 @@ This is a tricky part of the build, but it's also one of the most satisfying to 
 
 There is a lot of discussion online about banjo neck angles. If you look at old minstrel banjos, there are examples where the neck angle is 0°. Other boards talk about angles that are steeper, around 3°.
 
-These are describing the angle of the neck in reference to the rim. If you lay a bajno (that has no strings or bridge) face down on a table, the neck will usually be tilted back a tiny bit. This adds some downward pressure on the bridge: the neck "pulls" the string backward and into the banjo head.
+These are describing the angle of the neck in reference to the rim. If you lay a banjo (that has no strings or bridge) face down on a table, the neck will usually be tilted back a tiny bit. This adds some downward pressure on the bridge: the neck "pulls" the string backward and into the banjo head.
 
 I have had luck splitting the difference, which accounts for the idea that the angle can help, but you don't need much since we have nylon strings. I aim for 1 to 2° and allow for some wiggle room. You can use the same process, but decide on a different angle if you so desire.
 
@@ -646,7 +646,7 @@ Be sure to measure straight up from the corner of the imaginary plane extending 
 
 ### Cutting holes in the rim
 
-Once you have the measurment from the bottom of the rim to the bottom of the hole, you can make your square. The height of the square is the thickness of the dowel stick. The width is the width of the dowel stick.
+Once you have the measurement from the bottom of the rim to the bottom of the hole, you can make your square. The height of the square is the thickness of the dowel stick. The width is the width of the dowel stick.
 
 To locate the squares, decide on a front and back of the rim and mark the two points. You may want to hide a nasty patch in the heel of the neck. Always an option.
 
@@ -693,7 +693,7 @@ You don't want the screws to grab the rim. The screw head should pull the rim in
 
 Then you can put the screw in and tighten it up. You may need to use a screwdriver instead of a drill here, but in any case, you should be able to get the rim nice and tight against the neck. If not, find the bumps and get the carving tools back out.
 
-Then, you can hold it up and see how it looks and feels like a banjo. That's a good moment.
+Then, you can hold it up and see how it looks and feels like a banjo. That's a good moment. It's also a good time to trim down your dowel stick if you want. Leave a few inches for the loop that attaches your tailpiece.
 
 <div class="row">
     <div class="col-md-6">
@@ -762,7 +762,7 @@ The last step for the banjo itself is the finish, but the tail piece needs finis
 
 ### Making the nut
 
-The nut is pretty straightfoward. You want a small rectangle that fits into the space between the peghead face and the fingerboard. A mounted belt sander is the easiest way to get the fit just right. You want it snug, but don't glue it in yet. You'll adjust things when you string up the instrument.
+The nut is pretty straightforward. You want a small rectangle that fits into the space between the peghead face and the fingerboard. A mounted belt sander is the easiest way to get the fit just right. You want it snug, but don't glue it in yet. You'll adjust things when you string up the instrument.
 
 You can make your slots for the strings at this point, though. The main thing here is that you want the strings to start bending backward toward the pegs as soon as they hit the front of the nut (the side facing the fingerboard). Instead of cutting the slots flat at their base, you can angle them back slightly toward the pegs. This makes sure that the strings stop where the nut starts and not at some bump in the middle of the cut. The depth of the slots will determine your action, the height of the strings off of the fingerboard. I like mine really low, only 1/16th or 1/8th of an inch away from the fingerboard.
 
@@ -810,10 +810,32 @@ Then you can come back to it with a few coats each day. After every three or fou
 
 ## Setup
 
-### Preparing the tailpiece
+Last few steps!
 
-### Installing strings
+### Installing the tailpiece
 
-### Setting up the bridge
+Tying on the tailpiece is a matter of trial and error. You'll cut a loop of fishing line that goes through the two holes on the tailpiece itself and run it around the end of the dowel stick. Tying this knot is a pain, but it works well. Look up fishing knots that tie two lines together for some ideas. This link to a [blood knot](https://www.animatedknots.com/blood-knot) should do the trick. You'll have to try a few times before you can get the size of the loop just right. You want the tailpiece to get around the edge of the rim, but if it's too big, it'll push your bridge out too far.
+
+One hint: if you run the loop from the back of the tailpiece to the front, the fishing line will hold the tailpiece further from the head. This will help prevent buzzing.
+
+The other side of the tailpiece gets the strings. I find it easiest to tie all of the strings on to the tailpiece first so that you don't have to fight the tension after you start running the strings through the pegs. I've used this [bimini twist knot](https://www.animatedknots.com/bimini-twist-knot) for strings. Again, be patient and be sure to run the string through the tailpiece the same way for each knot.
+
+Here's a photo from way up at the top of the page that shows the tailpiece.
+
+<a href="images/purpleheart_body.jpg">
+    <img src="images/purpleheart_body_sm.jpg" class="img-responsive" alt="Maple and purpleheart body">
+</a>
+
+### Setting up the strings
+
+If you haven't drilled new holes in your pegs, now is the time to do it.
+
+Once you string up your banjo, you'll take a lot of time futzing with the nut and bridge height. This just involves sliding the nut and bridge out, sawing a wider or deeper slot, and sliding it back in to see how it feels. It takes time, but it's nice to be able to set the string action yourself.
+
+Once you get both where you want them, you can go back to the sander or sand paper to knock off any excess. The slots don't have to be deep. If they are too shallow or narrow, though, the strings can pop out when you get going.
 
 ### Retuning over and over
+
+Nylgut strings take forever to stretch, so you'll spend a week or so retuning over and over. But as you do, you'll be playing a banjo that you built yourself. Congrats!
+
+If this was helpful, I would love to see what you came up with. Please, don't hesitate to share photos, stories, comments, or suggestions with me [via email](mailto:chris.witulski@gmail.com) or any of the world's standard social media formats. I have links to my other writing and projects at my home page: [cwitulski.com](https://cwitulski.com). Thanks for reading!
