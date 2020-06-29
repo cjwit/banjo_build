@@ -87,7 +87,8 @@ I've since learned more about hand tools ([this is a good read](https://lostartp
 * **Sandpaper:** You'll be sanding forever. Get a box of quality paper in a range of grits up to 400 or so. I've bought the cheap stuff. It doesn't work well.
 * **Painter's tape:** This is the blue stuff. You'll be using it to glue up the block rim. The 1 inch thick version is fine.
 * **Wood glue:** Titebond is the standard. You'll probably want more than the small bottle. The one that looks like a restaurant ketchup bottle is enough.
-* **Finish:** I've used Tru-Oil, which is a gunstock finish. As advertised, it's easy and idiot-proof. It's also tough, which is good for something that you handle (like a banjo or gun stock)
+* **Finish:** I've used Birchwood Casey's Tru-Oil, which is a gunstock finish. As advertised, it's easy and idiot-proof. It's also tough, which is good for something that you handle (like a banjo or gun stock)
+* **Latex gloves:** Get a pack to use for putting the finish on the instrument.
 * **Paste wax:** Johnson's Floor Wax does the trick. It just smells terrible for a while.
 * **Tack cloth:** This is to apply finish, but you can also use an old t-shirt. Just cut it up into squares.
 * **Steel wool:** 0000, which is very fine, will help with the final few bouts of sanding and finishing.
@@ -723,8 +724,6 @@ Figure out where to put the tacks. You'll want a little space between the top ed
 
 The best way to figure this out is to simply measure the heads of your tacks and add a bit. This line (head + change) is also going to be the glue line. If you have a marking gauge, you can use that to draw a line around the top of the head, but it's not necessary. Just mark the distance in a few spots around the rim and run a piece of blue painters tape from spot to spot. You'll want to tape off the rest of the rim, too (from that line all the way down to the bottom).
 
-### Tack layout and pilot holes
-
 Figure out where you want your tacks (how widely you want to space them) and mark the spots with dark, vertical lines on the tape. A Sharpie works well. These will help you to quickly find the hole, which is important.
 
 Decide on a vertical placement (the halfway point makes sense) and mark the spot for each tack on the wood in pencil. Drill pilot holes with a drill bit that is just barely thinner than the shank of your tacks. Then mark each hole with a dot from the Sharpie. This dot will make it far easier to see the holes when fighting the tacks and it will be covered by the heads of the tacks themselves.
@@ -759,19 +758,55 @@ Wait a day or so before touching the skin. It's great to hear the high pitched r
 
 ## Other pieces
 
+The last step for the banjo itself is the finish, but the tail piece needs finish, too. So this section has a few comments about building the other odds and ends that you'll need. After that, you can apply finish to everything at once.
+
 ### Making the nut
+
+The nut is pretty straightfoward. You want a small rectangle that fits into the space between the peghead face and the fingerboard. A mounted belt sander is the easiest way to get the fit just right. You want it snug, but don't glue it in yet. You'll adjust things when you string up the instrument.
+
+You can make your slots for the strings at this point, though. The main thing here is that you want the strings to start bending backward toward the pegs as soon as they hit the front of the nut (the side facing the fingerboard). Instead of cutting the slots flat at their base, you can angle them back slightly toward the pegs. This makes sure that the strings stop where the nut starts and not at some bump in the middle of the cut. The depth of the slots will determine your action, the height of the strings off of the fingerboard. I like mine really low, only 1/16th or 1/8th of an inch away from the fingerboard.
+
+**DIAGRAM**
 
 ### Making the bridge
 
+This step of the bridge is similar, you'll come back to it later to adjust string action. In the meantime, the key here is measuring the spacing (which might be a touch wider than at the nut).
+
+One other thing: you'll want the side of the bridge that faces the fingerboard to be vertical. The opposite face can angle out slightly. This gives a bit more width at the base than at the top without getting in the way of the strings ringing. It probably doesn't matter, but it's what you do with a violin bridge, too.
+
+Cut this however you need to. Scroll saws work well, but I've used the rounded nose of a belt sander to sand out the gap in the bottom.
+
 ### Making the tailpiece
+
+The tailpiece can have any number of shapes. Check out some photos before diving in.
+
+This particular design is a simple one. There are all sorts of other options out there. The idea here is to make a piece of wood with five holes for the banjo strings on one side and two holes for a loop to go around the end of the dowel stick. The drawing above gives an idea, but you do not need to make it an oval.
+
+Sand it well and consider tools you may have for rounding off the edges of the string holes. You don't want the strings to cut on a sharp edge.
+
+If you mess up, perhaps the holes are too close to the edge and they eventually break the wood, you can just make a new one.
 
 ## Applying the finish
 
+I spent many more late nights reading about finishing instruments. This is the easy way. It comes from [this banjohangout thread](https://www.banjohangout.org/archive/260832).
+
 ### More sanding
+
+Sand everything up to a 220 grit. Make sure you don't have any scratches left. If you run a damp cloth over the wood, it will raise some of the grain and you can sand it smoother.
 
 ### Finishing (but not finishing)
 
-### Waxing
+Use tack cloth (from a hardware store) or a t-shirt cut into squares to apply the finish. Tru-Oil from Birchwood Casey is a gunstock finish that holds up well and is very easy to put on. Use latex gloves that you can toss after each coat or two. This stuff is really awful to get off of your hands.
+
+The first coat will be thicker (but not too thick) since it soaks in a bit. Let it dry for a day.
+
+Try and rig a way to dry things that doesn't involve touching them. I run a dowel through the fifth string hole and the holes in the rim.
+
+<a href="images/drying.jpg">
+    <img src="images/drying_sm.jpg" class="img-responsive" alt="Drying rack">
+</a>
+
+Then you can come back to it with a few coats each day. After every three or four, sand it down with 400 grit sand paper. It will build up a little each time. Once it gets to a point that feels good, use 0000 steel wool and apply a final coat. Then use more of the steel wool to put on a coat of Johnson's floor wax. It smells terrible, so keep it outside. Buff the wax off with a cloth.
 
 ## Setup
 
