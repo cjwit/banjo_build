@@ -163,7 +163,7 @@ Steam bending involves building a steam box out of PVC, watching it melt, then d
 
 For the block rim, you get long pieces of wood, cut trapezoids, and assemble an octagon. After a bunch of prep work, you stack them and glue them together to get the proper depth.
 
-To get the size, you need to draw out a circle and work out the geometry. Randy from Bluestemstrings.com sent me an email shortly after I first pushed this to the wide web and graciously offered to let me post his plans for block rim segments. His site doesn't seem to be running anymore, but it's mentioned often in the banjohangout.com forums as really useful. [You can find it in the Wayback Machine, though](http://web.archive.org/web/20160408175705/http://www.bluestemstrings.com/pageBanjoConstructionTips1.html#POT), and it's worth looking around at his plans. This thumnail links to a PDF of his plans for rim segments.
+To get the size, you need to draw out a circle and work out the geometry. Randy from Bluestemstrings.com sent me an email shortly after I first pushed this to the wide web and graciously offered to let me post his plans for block rim segments. His site doesn't seem to be running anymore, but it's mentioned often in the banjohangout.com forums as really useful. [You can find it in the Wayback Machine, though](http://web.archive.org/web/20160408175705/http://www.bluestemstrings.com/pageBanjoConstructionTips1.html#POT), and it's worth looking around at his plans. This thumbnail links to a PDF of his plans for rim segments.
 
 <a href="images/BluestemBanjoRimSegmentGuide.pdf">
     <img src="images/BluestemBanjoRimSegmentGuide_sm.jpg" class="img-responsive" alt="Rim plan drawing">
