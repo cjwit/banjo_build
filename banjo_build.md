@@ -453,6 +453,8 @@ So where's the 12th fret? It's halfway down your scale: if you are doing a 26" s
 
 While you're at it, mark off the fifth fret, where the fifth string will end. This is a ratio and not just 5/12ths or whatever. Easiest way: find a fret position calculator. [The one from StewMac](https://www.stewmac.com/FretCalculator) is good. Use 24 frets (doesn't matter) and put in your scale length. The instrument doesn't matter, either. Then, find the 5th fret measurement and mark it down. For a 26" scale, it comes out to 6.522". That's close enough to 6 1/2" for us.
 
+The fifth string peg has to go somewhere, too. Measure the shank of your pegs to get a rough guess as to where it's going to pop through the face of the fingerboard and align the hole so that the string will come off of the inside of the peg in line with the other strings. If you put the center of the peg on the string line, the string will end up angled steeply into the other strings. It'll be a tight and awkward fit.
+
 I like a 3/8th inch string spacing at the nut and a 7/16ths of space at the bridge, which means that the spacing at the 12th fret is halfway between: 15/32nds. It's basically a pencil mark over the line and mostly relevant for the sides of the neck. The strings will go where we want when we make the bridge.
 
 Mark two strings worth of spacing in each direction at the nut and 12th string, then connect those lines with a straight edge. The fifth string doesn't go all the way up to the nut, so you can stop the line at the 5th fret marker that you put in earlier.
@@ -616,8 +618,6 @@ I have had luck splitting the difference, which accounts for the idea that the a
 
 The neck angle is relevant because we need to cut some holes in the rim so that the neck and rim can attach. If we lay both flat and put both holes at the same height on the rim, we'll have a 0° neck angle. If we want the neck to angle away a little bit, the we are going to have to adjust our holes and they won't line up at exactly the same height.
 
-**IMAGE NECK ANGLE**
-
 ### Measuring holes in the rim
 
 You need five measurements to cut these rectangular holes:
@@ -632,6 +632,10 @@ The distances from the bottom of the rim to the bottom of the two holes are the 
 
 This (poorly drawn) diagram shows what you are looking for. Prop the neck up at the angle you want. You have to account for a straight line through the gap that you created when carving out a scoop.
 
+<a href="images/neck_angle.jpg">
+    <img src="images/neck_angle_sm.jpg" class="img-responsive" alt="Measuring the neck angle">
+</a>
+
 Thinking of a right triangle will help you create that neck angle. If you want 1°, you will have a long side (along the table and under the neck) and a hypotenuse (the neck from the end of the rim to the nut). If the far angle is 1°, you can use an online right triangle calculator to get the height of the neck at the nut.
 
 For our 26" scale neck with an 11" rim, we have 20" of neck. That's the hypotenuse. Our height comes out to about a third of an inch. Let's call it almost 3/8ths (0.375). Use some blocks and a straight edge to set this up. Then you can do some measurements.
@@ -642,11 +646,13 @@ The height of the dowel stick at each of these points is the distance from the *
 
 Be sure to measure straight up from the corner of the imaginary plane extending from the fingerboard and go *straight up*. You are going to cut (carve) this angle out later so that the rim comes in flush with the heel of the neck.
 
-**IMAGE: SET UP TO MEASURE, SHOW OTHER ANGLES**
-
 ### Cutting holes in the rim
 
-Once you have the measurement from the bottom of the rim to the bottom of the hole, you can make your square. The height of the square is the thickness of the dowel stick. The width is the width of the dowel stick.
+Once you have the measurement from the bottom of the rim to the bottom of the hole, you can make your square. The height of the square is the thickness of the dowel stick. The width is the width of the dowel stick. The last part of this drawing is about carving the angle into the neck to fit the rim. That step comes next. Remember that you can always click an image for a larger version.
+
+<a href="images/rim_holes.jpg">
+    <img src="images/rim_holes_sm.jpg" class="img-responsive" alt="Cutting holes in the rim">
+</a>
 
 To locate the squares, decide on a front and back of the rim and mark the two points. You may want to hide a nasty patch in the heel of the neck. Always an option.
 
@@ -810,7 +816,11 @@ Then you can come back to it with a few coats each day. After every three or fou
 
 ## Setup
 
-Last few steps!
+Last few steps! Here's a drawing for some of the descriptions below.
+
+<a href="images/last_pieces.jpg">
+    <img src="images/last_pieces_sm.jpg" class="img-responsive" alt="Last few pieces">
+</a>
 
 ### Installing the tailpiece
 
