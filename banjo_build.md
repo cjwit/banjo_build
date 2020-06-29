@@ -2,7 +2,9 @@
 
 ## <a name='top'></a>Introduction
 
-I prepared this document specifically for two students who are interested in building banjos. If you found your way here, feel free to reach out at [chris.witulski@gmail.com](mailto:chris.witulski@gmail.com) or [my homepage](https://cjwit.github.io) with any questions, comments, or (more likely) suggestions. I've built a handful of these and I'm happy with how they came out. I hope that this can be helpful!
+I prepared this document specifically for two students who are interested in building banjos. If you found your way here, feel free to reach out at [chris.witulski@gmail.com](mailto:chris.witulski@gmail.com) or [my homepage](https://cwitulski.com) with any questions, comments, or (more likely) suggestions. I've built a handful of these and I'm happy with how they came out. I hope that this can be helpful for anyone who is interested in giving banjo building a try.
+
+This process comes out of many late nights of reading the extraordinarily helpful building and repair forums at [banjohangout.com](https://www.banjohangout.org/gotoforum/12). I also drew heavily on other sites that I link to below. The influence of the folks at the BGSU School of Art wood shop who invited me in and taught me the little bit that I know about woodworking, cannot be overstated!
 
 For what it's worth, here are some photos from two recent builds. The first is cherry and ipe and the second is Ambrosia maple and purpleheart. Click for larger images.
 
@@ -707,15 +709,53 @@ Then, you can hold it up and see how it looks and feels like a banjo. That's a g
 
 ## Attaching the skin
 
-### Preparing the skin
+Every time I have to attach a skin, I go back and read [this page from a minstrel banjo discussion forum](http://minstrelbanjo.ning.com/forum/topics/tack-head-installation?page=1&commentId=2477478%3AComment%3A121817&x=1#2477478Comment121817). I actually copied it into a note on my computer and pull it up. Thanks, Bell Banjos, whoever you are.
 
-### Tack layout
-
-### Tack fit and pilot holes
+Just in case that page disappears into the ether at some point, here's the basic gist.
 
 ### Preparing the rim
 
+Figure out where to put the tacks. You'll want a little space between the top edge and the end of the tack, but you don't need much. Then, you want a roughly equal amount of space between the bottom of the tack head and the end of the skin, where you'll cut the skin off and where the finish begins. Take a look at this photo from my first build to get an idea of what I'm talking about.
+
+<a href="images/finished_tacks.jpg">
+    <img src="images/finished_tacks_sm.jpg" class="img-responsive" alt="It looks kinda right!">
+</a>
+
+The best way to figure this out is to simply measure the heads of your tacks and add a bit. This line (head + change) is also going to be the glue line. If you have a marking gauge, you can use that to draw a line around the top of the head, but it's not necessary. Just mark the distance in a few spots around the rim and run a piece of blue painters tape from spot to spot. You'll want to tape off the rest of the rim, too (from that line all the way down to the bottom).
+
+### Tack layout and pilot holes
+
+Figure out where you want your tacks (how widely you want to space them) and mark the spots with dark, vertical lines on the tape. A Sharpie works well. These will help you to quickly find the hole, which is important.
+
+Decide on a vertical placement (the halfway point makes sense) and mark the spot for each tack on the wood in pencil. Drill pilot holes with a drill bit that is just barely thinner than the shank of your tacks. Then mark each hole with a dot from the Sharpie. This dot will make it far easier to see the holes when fighting the tacks and it will be covered by the heads of the tacks themselves.
+
+<a href="images/prepped_rim.jpg">
+    <img src="images/prepped_rim_sm.jpg" class="img-responsive" alt="Taped and prepped">
+</a>
+
+Grab a piece of scrap wood to use to push the tacks in and a friend to help hold everything down.
+
 ### Gluing, tacking, and drying
+
+You have to move fast for this part, so read first, then go back to it.
+
+Fill a tub with some water and put the skin in it. You may need to weigh it down with a few things. Meanwhile, put glue on the bare wood of the rim. Try not to get any over the edge. Wait for 30 minutes. The glue will get close to drying and the skin will loosen up in the tub.
+
+Dry the skin off by rolling it in a towel and move quickly to center it over the rim. Don't put it down on the rim until you have it centered. Four hands make this easy. You don't want to move it around and get glue where it shouldn't be.
+
+Get a few tacks ready and have a block to help pushing in tacks handy. You'll put in three next to each other (just one will probably rip the skin when you pull against it). Then, pull the other side as hard as you can and put another three in over there. Three more on each side, again as tight as possible, and you'll be on your way. Move quickly.
+
+Throughout this, be sure not to touch the skin that's stretched over the rim. Keep pulling hard and adding tacks to work your way around the rim. Focus on spots where there are wrinkles so that you can flatten things out as much as possible.
+
+Once everything is in, use a razor blade or scissors to cut off most of the excess. I find it easiest to do this in two stages. First, cut pretty close to the glue line with scissors, then, after working to dry and flatten the skin on the side. Then I go back with a razor blade to clean it up.
+
+For that in-between phase, sit and watch some TV while turning the rim around in your hands and pushing the spaces between the tacks as flat as possible. Keep going around until the skin dries tight. This will be easier if you cut the excess pretty close to the glue line. Then, clean it up with a razor blade.
+
+<a href="images/finishing_skin.jpg">
+    <img src="images/finishing_skin_sm.jpg" class="img-responsive" alt="Gluing the skin">
+</a>
+
+Wait a day or so before touching the skin. It's great to hear the high pitched ring, but don't touch it until a day or two pass. The link that I shared above mentions rubbing some mink oil in after a few days pass. I haven't had any, so I can't speak to this, but there's no reason to believe that it wouldn't help!
 
 ## Other pieces
 
