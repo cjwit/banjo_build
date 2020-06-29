@@ -165,7 +165,7 @@ For the block rim, you get long pieces of wood, cut trapezoids, and assemble an 
 
 To get the size, you need to draw out a circle and work out the geometry. I found a thumbnail image once a while back that gives an idea, though. It's hard to read and the main site isn't there anymore. (If anyone in the internet has info, I'd love to link directly to the creator!)
 
-<img src="images/block-rim-pattern.jpg" class="img-responsive" alt="Patterns for block rim shapes">
+<img src="images/block-rim-patterns.jpg" class="img-responsive" alt="Patterns for block rim shapes">
 
 Taking the larger size rim for the sake of overestimating the amount of wood, you need 8 segments that are each 5 3/16 inches on the outside. Since you flip the wood, it's really 4 times (5 3/16" + *math and stuff*). I'd guess high and call it 5 1/4" times 8 segments for 42" per lamination (per hoop that you'll glue together). If your wood is 1" thick and you want a 3" deep rim, you need three laminations. By the time you cut and sand, it might be short, so guess high. That's four laminations for 168" or 14 feet. The pattern gives a width of 1 11/16". A 2x4 prepped is usually 1 3/4" thick, not 2". So take the 1 11/16" and call it 2".
 
