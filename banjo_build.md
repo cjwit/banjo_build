@@ -770,9 +770,7 @@ The last step for the banjo itself is the finish, but the tail piece needs finis
 
 The nut is pretty straightforward. You want a small rectangle that fits into the space between the peghead face and the fingerboard. A mounted belt sander is the easiest way to get the fit just right. You want it snug, but don't glue it in yet. You'll adjust things when you string up the instrument.
 
-You can make your slots for the strings at this point, though. The main thing here is that you want the strings to start bending backward toward the pegs as soon as they hit the front of the nut (the side facing the fingerboard). Instead of cutting the slots flat at their base, you can angle them back slightly toward the pegs. This makes sure that the strings stop where the nut starts and not at some bump in the middle of the cut. The depth of the slots will determine your action, the height of the strings off of the fingerboard. I like mine really low, only 1/16th or 1/8th of an inch away from the fingerboard.
-
-**DIAGRAM**
+You can make your slots for the strings at this point, though. The main thing here is that you want the strings to start bending backward toward the pegs as soon as they hit the front of the nut (the side facing the fingerboard). Instead of cutting the slots flat at their base, you can angle them back slightly toward the pegs. This makes sure that the strings stop where the nut starts and not at some bump in the middle of the cut. The depth of the slots will determine your action, the height of the strings off of the fingerboard. I like mine really low, only 1/16th or 1/8th of an inch away from the fingerboard. We'll come back to this at the end, when stringing up and setting up the instrument.
 
 ### Making the bridge
 
